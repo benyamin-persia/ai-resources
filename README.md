@@ -25,6 +25,16 @@ A curated collection of videos, repositories, guides, and books for learning lar
 - [Designing Machine Learning Systems](https://github.com/chiphuyen/dmls-book)
 - [ML for Beginners](https://github.com/microsoft/ML-For-Beginners)
 - [LLM Course](https://github.com/mlabonne/llm-course)
+- [LlamaIndex](https://github.com/run-llama/llama_index)
+- [LangGraph](https://github.com/langchain-ai/langgraph)
+- [smolagents](https://github.com/huggingface/smolagents)
+- [vLLM](https://github.com/vllm-project/vllm)
+- [GraphRAG](https://github.com/microsoft/graphrag)
+- [DeepEval](https://github.com/confident-ai/deepeval)
+- [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch)
+- [PEFT](https://github.com/huggingface/peft)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+- [Qdrant](https://github.com/qdrant/qdrant)
 
 ## Guides
 
