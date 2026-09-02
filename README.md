@@ -1,38 +1,47 @@
-# Software Engineering Interview Resources
+# AI Resources
 
-A curated collection of resources for coding interviews, system design, object-oriented design, APIs, and databases.
+A curated collection of videos, repositories, guides, and books for learning large language models, AI engineering, and AI agents.
 
-## Algorithms and coding interviews
+## Videos
 
-- [LeetCode](https://leetcode.com/)
-- [NeetCode Roadmap](https://neetcode.io/roadmap)
-- [Striver's A2Z DSA Course Sheet](https://takeuforward.org/dsa/strivers-a2z-dsa-course-sheet-2/)
-- [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
-- [AlgoExpert](https://www.algoexpert.io/)
-- [Crack The Coding Interview (Google Sheet)](https://docs.google.com/spreadsheets/d/1pnI8HmSMPcfwrCCu7wYETCXaKDig4VucZDpcjVRuYrE/edit#gid=237636947)
+- [[1hr Talk] Intro to Large Language Models — Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [Stanford CS229: Building Large Language Models](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+- [Agentic AI: A Progression of Language Model Usage — Stanford Online](https://www.youtube.com/watch?v=kJLiOGle3Lw)
+- [Building and Evaluating AI Agents — Sayash Kapoor](https://www.youtube.com/watch?v=d5EltXhbcfA)
+- [How We Build Effective Agents — Barry Zhang, Anthropic](https://www.youtube.com/watch?v=D7_ipDqhtwk)
+- [Building Agents with Model Context Protocol — Mahesh Murag, Anthropic](https://www.youtube.com/watch?v=kQmXtrmQ5Zg)
+- [Let's Build an Agent from Scratch — Kam Lasater](https://www.youtube.com/watch?v=xzXdLRUyjUg)
+- [PhiloAgents — YouTube Playlist](https://www.youtube.com/playlist?list=PLacQJwuclt_sV-tfZmpT1Ov6jldHl30NR)
 
-## System design and architecture
+## Repositories
 
-- [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [ByteByteGo](https://bytebytego.com/)
-- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
-- [Designing Data-Intensive Applications](https://dataintensive.net/)
+- [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)
+- [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [Hands-On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- [Made With ML](https://github.com/GokuMohandas/Made-With-ML)
+- [Hands-On AI Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering)
+- [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+- [Designing Machine Learning Systems](https://github.com/chiphuyen/dmls-book)
+- [ML for Beginners](https://github.com/microsoft/ML-For-Beginners)
+- [LLM Course](https://github.com/mlabonne/llm-course)
 
-## Object-oriented design, patterns, and diagramming
+## Guides
 
-- [Grokking the Object-Oriented Design Interview](https://www.designgurus.io/course/grokking-the-object-oriented-design-interview)
-- [Refactoring.Guru Design Patterns](https://refactoring.guru/design-patterns)
-- [diagrams.net](https://app.diagrams.net/)
+- [Agents Whitepaper — Kaggle](https://www.kaggle.com/whitepaper-agents)
+- [Agent Companion — Kaggle](https://www.kaggle.com/whitepaper-agent-companion)
+- [Building Effective Agents — Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+- [Claude Code: Best Practices for Agentic Coding — Anthropic](https://www.anthropic.com/engineering/claude-code-best-practices)
+- [A Practical Guide to Building Agents — OpenAI](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 
-## API design
+## Books
 
-- [Stripe API Reference](https://docs.stripe.com/api)
-- [REST API Tutorial](https://restfulapi.net/)
-- [Google Cloud API Design Guide](https://docs.cloud.google.com/apis/design)
-
-## Databases
-
-- [DrawSQL](https://drawsql.app/)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- [LLM Engineer's Handbook](https://www.oreilly.com/library/view/llm-engineers-handbook/9781836200079/)
+- [AI Agents: The Definitive Guide](https://www.oreilly.com/library/view/ai-agents-the/0642572247775/)
+- [Building Applications with AI Agents](https://www.oreilly.com/library/view/building-applications-with/9781098176495/)
+- [AI Agents with MCP](https://www.oreilly.com/library/view/ai-agents-with/9798341639546/)
+- [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 
 > Some resources may require an account or paid subscription.
