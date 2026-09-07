@@ -55,3 +55,7 @@ A curated collection of videos, repositories, guides, and books for learning lar
 - [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 
 > Some resources may require an account or paid subscription.
+
+## Website Collections
+
+- [50 Useful Websites](50-useful-websites/README.md) — All 50 links from Bhanu Singh Yede's September 7, 2026 post, with short descriptions, categories, and TXT/JSON copies.

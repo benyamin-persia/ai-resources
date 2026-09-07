@@ -1,0 +1,361 @@
+{
+  "title": "50 Useful Websites",
+  "source_url": "https://x.com/Bhanusinghyede/status/2096783349377556595",
+  "source_author": "Bhanusinghyede",
+  "source_published_at": "Mon Sep 07 02:11:21 +0000 2026",
+  "collected_on": "2026-09-07",
+  "count": 50,
+  "notes": "URLs and order preserved from the source post. Purposes summarized from the post; current availability, features, and pricing not independently verified.",
+  "websites": [
+    {
+      "number": 1,
+      "website": "12ft.io",
+      "url": "http://12ft.io",
+      "category": "Learning, research & archives",
+      "description": "Paywall reader"
+    },
+    {
+      "number": 2,
+      "website": "libgen.is",
+      "url": "http://libgen.is",
+      "category": "Learning, research & archives",
+      "description": "Textbook search"
+    },
+    {
+      "number": 3,
+      "website": "sci-hub.se",
+      "url": "http://sci-hub.se",
+      "category": "Learning, research & archives",
+      "description": "Scholarly article access"
+    },
+    {
+      "number": 4,
+      "website": "alternativeto.net",
+      "url": "http://alternativeto.net",
+      "category": "Discovery & organization",
+      "description": "Software alternatives"
+    },
+    {
+      "number": 5,
+      "website": "justwatch.com",
+      "url": "http://justwatch.com",
+      "category": "Discovery & organization",
+      "description": "Streaming availability search"
+    },
+    {
+      "number": 6,
+      "website": "archive.org",
+      "url": "http://archive.org",
+      "category": "Learning, research & archives",
+      "description": "Web and media archives"
+    },
+    {
+      "number": 7,
+      "website": "gutenberg.org",
+      "url": "http://gutenberg.org",
+      "category": "Learning, research & archives",
+      "description": "Public-domain books"
+    },
+    {
+      "number": 8,
+      "website": "pdfdrive.com",
+      "url": "http://pdfdrive.com",
+      "category": "Learning, research & archives",
+      "description": "PDF search"
+    },
+    {
+      "number": 9,
+      "website": "openculture.com",
+      "url": "http://openculture.com",
+      "category": "Learning, research & archives",
+      "description": "Educational resource directory"
+    },
+    {
+      "number": 10,
+      "website": "wolframalpha.com",
+      "url": "http://wolframalpha.com",
+      "category": "Learning, research & archives",
+      "description": "Computational answers"
+    },
+    {
+      "number": 11,
+      "website": "photopea.com",
+      "url": "http://photopea.com",
+      "category": "Images, video & design",
+      "description": "Browser image editor"
+    },
+    {
+      "number": 12,
+      "website": "squoosh.app",
+      "url": "http://squoosh.app",
+      "category": "Images, video & design",
+      "description": "Image compression"
+    },
+    {
+      "number": 13,
+      "website": "remove.bg",
+      "url": "http://remove.bg",
+      "category": "Images, video & design",
+      "description": "Background removal"
+    },
+    {
+      "number": 14,
+      "website": "cleanup.pictures",
+      "url": "http://cleanup.pictures",
+      "category": "Images, video & design",
+      "description": "Photo object removal"
+    },
+    {
+      "number": 15,
+      "website": "unscreen.com",
+      "url": "http://unscreen.com",
+      "category": "Images, video & design",
+      "description": "Video background removal"
+    },
+    {
+      "number": 16,
+      "website": "carbon.now.sh",
+      "url": "http://carbon.now.sh",
+      "category": "Images, video & design",
+      "description": "Code image creation"
+    },
+    {
+      "number": 17,
+      "website": "ray.so",
+      "url": "http://ray.so",
+      "category": "Images, video & design",
+      "description": "Code screenshot styling"
+    },
+    {
+      "number": 18,
+      "website": "shots.so",
+      "url": "http://shots.so",
+      "category": "Images, video & design",
+      "description": "Product mockup creation"
+    },
+    {
+      "number": 19,
+      "website": "smartmockups.com",
+      "url": "http://smartmockups.com",
+      "category": "Images, video & design",
+      "description": "Design mockups"
+    },
+    {
+      "number": 20,
+      "website": "haveibeenpwned.com",
+      "url": "http://haveibeenpwned.com",
+      "category": "Privacy, security & sharing",
+      "description": "Breach exposure lookup"
+    },
+    {
+      "number": 21,
+      "website": "virustotal.com",
+      "url": "http://virustotal.com",
+      "category": "Privacy, security & sharing",
+      "description": "Malware scanning"
+    },
+    {
+      "number": 22,
+      "website": "privnote.com",
+      "url": "http://privnote.com",
+      "category": "Privacy, security & sharing",
+      "description": "Expiring private notes"
+    },
+    {
+      "number": 23,
+      "website": "temp-mail.org",
+      "url": "http://temp-mail.org",
+      "category": "Privacy, security & sharing",
+      "description": "Disposable mailboxes"
+    },
+    {
+      "number": 24,
+      "website": "file.io",
+      "url": "http://file.io",
+      "category": "Privacy, security & sharing",
+      "description": "Temporary file sharing"
+    },
+    {
+      "number": 25,
+      "website": "archive.ph",
+      "url": "http://archive.ph",
+      "category": "Learning, research & archives",
+      "description": "Webpage snapshots"
+    },
+    {
+      "number": 26,
+      "website": "similarsites.com",
+      "url": "http://similarsites.com",
+      "category": "Discovery & organization",
+      "description": "Similar website discovery"
+    },
+    {
+      "number": 27,
+      "website": "radio.garden",
+      "url": "http://radio.garden",
+      "category": "Music & focus",
+      "description": "Global radio exploration"
+    },
+    {
+      "number": 28,
+      "website": "everynoise.com",
+      "url": "http://everynoise.com",
+      "category": "Music & focus",
+      "description": "Music genre exploration"
+    },
+    {
+      "number": 29,
+      "website": "tunefind.com",
+      "url": "http://tunefind.com",
+      "category": "Music & focus",
+      "description": "Screen soundtrack identification"
+    },
+    {
+      "number": 30,
+      "website": "musicforprogramming.net",
+      "url": "http://musicforprogramming.net",
+      "category": "Music & focus",
+      "description": "Background programming music"
+    },
+    {
+      "number": 31,
+      "website": "mynoise.net",
+      "url": "http://mynoise.net",
+      "category": "Music & focus",
+      "description": "Ambient sound generation"
+    },
+    {
+      "number": 32,
+      "website": "coffitivity.com",
+      "url": "http://coffitivity.com",
+      "category": "Music & focus",
+      "description": "Coffee-shop ambience"
+    },
+    {
+      "number": 33,
+      "website": "elicit.org",
+      "url": "http://elicit.org",
+      "category": "Learning, research & archives",
+      "description": "Research assistant"
+    },
+    {
+      "number": 34,
+      "website": "consensus.app",
+      "url": "http://consensus.app",
+      "category": "Learning, research & archives",
+      "description": "Research evidence search"
+    },
+    {
+      "number": 35,
+      "website": "connectedpapers.com",
+      "url": "http://connectedpapers.com",
+      "category": "Learning, research & archives",
+      "description": "Related paper mapping"
+    },
+    {
+      "number": 36,
+      "website": "semanticscholar.org",
+      "url": "http://semanticscholar.org",
+      "category": "Learning, research & archives",
+      "description": "Scholarly search"
+    },
+    {
+      "number": 37,
+      "website": "scispace.com",
+      "url": "http://scispace.com",
+      "category": "Learning, research & archives",
+      "description": "Paper explanation"
+    },
+    {
+      "number": 38,
+      "website": "summarize.tech",
+      "url": "http://summarize.tech",
+      "category": "AI & developer tools",
+      "description": "YouTube summaries"
+    },
+    {
+      "number": 39,
+      "website": "phind.com",
+      "url": "http://phind.com",
+      "category": "AI & developer tools",
+      "description": "Developer answer search"
+    },
+    {
+      "number": 40,
+      "website": "regex101.com",
+      "url": "http://regex101.com",
+      "category": "AI & developer tools",
+      "description": "Regular expression testing"
+    },
+    {
+      "number": 41,
+      "website": "codebeautify.org",
+      "url": "http://codebeautify.org",
+      "category": "AI & developer tools",
+      "description": "Code formatting"
+    },
+    {
+      "number": 42,
+      "website": "jsonformatter.org",
+      "url": "http://jsonformatter.org",
+      "category": "AI & developer tools",
+      "description": "JSON visualization"
+    },
+    {
+      "number": 43,
+      "website": "explainshell.com",
+      "url": "http://explainshell.com",
+      "category": "AI & developer tools",
+      "description": "Shell command explanation"
+    },
+    {
+      "number": 44,
+      "website": "raindrop.io",
+      "url": "http://raindrop.io",
+      "category": "Discovery & organization",
+      "description": "Bookmark organization"
+    },
+    {
+      "number": 45,
+      "website": "downdetector.com",
+      "url": "http://downdetector.com",
+      "category": "Web utilities",
+      "description": "Service outage reports"
+    },
+    {
+      "number": 46,
+      "website": "tineye.com",
+      "url": "http://tineye.com",
+      "category": "Web utilities",
+      "description": "Image similarity search"
+    },
+    {
+      "number": 47,
+      "website": "fast.com",
+      "url": "http://fast.com",
+      "category": "Web utilities",
+      "description": "Connection speed measurement"
+    },
+    {
+      "number": 48,
+      "website": "smallpdf.com",
+      "url": "http://smallpdf.com",
+      "category": "PDF tools",
+      "description": "PDF tools"
+    },
+    {
+      "number": 49,
+      "website": "ilovepdf.com",
+      "url": "http://ilovepdf.com",
+      "category": "PDF tools",
+      "description": "PDF document operations"
+    },
+    {
+      "number": 50,
+      "website": "10minutemail.com",
+      "url": "http://10minutemail.com",
+      "category": "Privacy, security & sharing",
+      "description": "Short-lived email inbox"
+    }
+  ]
+}
