@@ -36,6 +36,33 @@ A curated collection of videos, repositories, guides, and books for learning lar
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - [Qdrant](https://github.com/qdrant/qdrant)
 
+### AI Motion Graphics & Video Production
+
+Code-driven tools and agent skills for building editable animations, motion graphics, and videos. Curated from [Yarad's Claude video studio guide](https://x.com/Yarad_ai/status/2116177026927268266).
+
+#### Video Creation and Editing
+
+- [Remotion](https://github.com/remotion-dev/remotion) — Create and render videos programmatically with React.
+- [Remotion Agent Skills](https://github.com/remotion-dev/skills) — Agent skills for planning, building, and rendering Remotion projects.
+- [HyperFrames](https://github.com/heygen-com/hyperframes) — Turn HTML scenes into videos in agent-driven workflows.
+- [Herk Edit Kit](https://github.com/nateherkai/herk-edit-kit) — Transcript-based video editing, short-form clips, and reusable HyperFrames templates for Claude Code and Codex.
+
+#### Web and UI Animation
+
+- [Motion](https://github.com/motiondivision/motion) — A modern animation library for React and JavaScript.
+- [Lottie Web](https://github.com/airbnb/lottie-web) — Render lightweight After Effects animations across web and app platforms.
+- [GSAP](https://github.com/greensock/GSAP) — Build precise, timeline-based JavaScript animations.
+
+#### Motion Design Agent Skills
+
+- [Motion Design Skill](https://github.com/LottieFiles/motion-design-skill) — Teach agents motion principles such as timing, easing, and choreography.
+- [Motion Graphics](https://github.com/Barty-Bart/motion-graphics) — Create motion graphics synchronized with video transcripts using Claude Code or Codex.
+- [Claude Motion Design](https://github.com/howseen-ai/claude-motion-design) — Produce code-driven promotional videos with HTML, Playwright, and FFmpeg.
+
+#### Collections
+
+- [Motion Graphics Skills](https://github.com/Mort1d/motion-graphics-skills) — A broader collection for creating code-based motion graphics with AI coding agents.
+
 ## Guides
 
 - [Agents Whitepaper — Kaggle](https://www.kaggle.com/whitepaper-agents)
