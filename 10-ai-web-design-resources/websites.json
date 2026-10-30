@@ -1,0 +1,85 @@
+{
+  "title": "10 AI & Web Design Resources",
+  "source_url": "https://x.com/insanekrishnaa/status/2116034455118971135",
+  "source_author": "insanekrishnaa",
+  "source_published_at": "Fri Oct 30 05:08:22 +0000 2026",
+  "collected_on": "2026-10-30",
+  "count": 10,
+  "notes": "URLs and order are preserved from the source post. Availability was checked on 2026-10-30; on.design resolved to a login page and godly.website redirected to recent.design.",
+  "websites": [
+    {
+      "number": 1,
+      "website": "modulify.ai",
+      "url": "https://modulify.ai/",
+      "category": "AI building tools",
+      "description": "AI-assisted website building"
+    },
+    {
+      "number": 2,
+      "website": "motionin.design",
+      "url": "https://motionin.design/",
+      "category": "Prompts & learning",
+      "description": "AI prompts for designers"
+    },
+    {
+      "number": 3,
+      "website": "landdding.com",
+      "url": "https://landdding.com/",
+      "category": "Web design inspiration",
+      "description": "Landing-page examples"
+    },
+    {
+      "number": 4,
+      "website": "wonderlist.design",
+      "url": "https://wonderlist.design/",
+      "category": "Web design inspiration",
+      "description": "Curated premium designs"
+    },
+    {
+      "number": 5,
+      "website": "iconly.design",
+      "url": "https://iconly.design/",
+      "category": "Design assets",
+      "description": "Icons for apps and websites"
+    },
+    {
+      "number": 6,
+      "website": "fontinlogo.com",
+      "url": "https://fontinlogo.com/",
+      "resolved_url": "https://www.fontinlogo.com/",
+      "category": "Design assets",
+      "description": "Fonts used in well-known logos"
+    },
+    {
+      "number": 7,
+      "website": "on.design",
+      "url": "https://on.design/",
+      "resolved_url": "https://on.design/login?redirect=%2F",
+      "category": "Design community",
+      "description": "Online community for designers; login currently required"
+    },
+    {
+      "number": 8,
+      "website": "godly.website",
+      "url": "https://godly.website/",
+      "resolved_url": "https://recent.design/?ref=godly",
+      "category": "Web design inspiration",
+      "description": "Award-winning website examples; redirects to Recent Design"
+    },
+    {
+      "number": 9,
+      "website": "60fps.design",
+      "url": "https://60fps.design/",
+      "category": "UI motion inspiration",
+      "description": "Mobile interface animations"
+    },
+    {
+      "number": 10,
+      "website": "footer.design",
+      "url": "https://footer.design/",
+      "resolved_url": "https://www.footer.design/",
+      "category": "Web design inspiration",
+      "description": "Website footer examples"
+    }
+  ]
+}
