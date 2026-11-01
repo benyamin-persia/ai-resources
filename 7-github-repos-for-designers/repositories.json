@@ -1,0 +1,61 @@
+{
+  "title": "7 GitHub Repositories for Designers",
+  "source_url": "https://x.com/thegreatest_sv/status/2116587002493542781",
+  "source_author": "thegreatest_sv",
+  "source_published_at": "Sat Oct 31 17:44:00 +0000 2026",
+  "collected_on": "2026-11-01",
+  "count": 7,
+  "notes": "Repository URLs and ordering are preserved from the source post. GitHub repo existence checked 2026-11-01. Motion Design Skill is cross-listed in the main README to avoid duplicating its earlier resource entry.",
+  "repositories": [
+    {
+      "number": 1,
+      "name": "Graphify",
+      "url": "http://github.com/Graphify-Labs/graphify",
+      "category": "Design context & memory",
+      "description": "Build a queryable knowledge graph from a codebase and its documentation, schemas, configs, and PDFs."
+    },
+    {
+      "number": 2,
+      "name": "Awesome DESIGN.md",
+      "url": "http://github.com/VoltAgent/awesome-design-md",
+      "category": "Design systems",
+      "description": "A collection of brand design systems in DESIGN.md format for coding agents."
+    },
+    {
+      "number": 3,
+      "name": "Hallmark",
+      "url": "http://github.com/Nutlope/hallmark",
+      "category": "UI design skills",
+      "description": "An anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "number": 4,
+      "name": "Huashu Design",
+      "url": "http://github.com/alchaincyf/huashu-design",
+      "category": "Generative design",
+      "description": "Create web and app prototypes, editable presentations, animations, and infographics from prompts."
+    },
+    {
+      "number": 5,
+      "name": "Designer Skills Pack",
+      "url": "http://github.com/Owl-Listener/designer-skills",
+      "category": "Design agent skills",
+      "description": "Agent skills, commands, and plugins for research, design systems, UI, interaction, and delivery."
+    },
+    {
+      "number": 6,
+      "name": "Motion Design Skill",
+      "url": "http://github.com/LottieFiles/motion-design-skill",
+      "category": "Motion design skills",
+      "description": "Teach agents motion principles including timing, easing, and choreography.",
+      "already_listed": true
+    },
+    {
+      "number": 7,
+      "name": "Blender Agent Skills",
+      "url": "http://github.com/EL4CTEO/blender-skills",
+      "category": "3D design skills",
+      "description": "Blender workflows for modeling, materials, rigging, animation, rendering, and export."
+    }
+  ]
+}

@@ -69,6 +69,18 @@ Code-driven tools and agent skills for building editable animations, motion grap
 
 - [Brainstorming](https://aitmpl.com/component/skill/development/brainstorming) — A structured pre-build workflow that helps an agent inspect context, clarify requirements one question at a time, compare approaches, and confirm a written design before implementation. MIT licensed; adapted from Jesse Vincent's [obra/superpowers](https://github.com/obra/superpowers/tree/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/brainstorming). [Source](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/brainstorming) · Install: `npx claude-code-templates@latest --skill development/brainstorming`
 
+### Design & Creative Tools
+
+- [Graphify](https://github.com/Graphify-Labs/graphify) — Build a queryable knowledge graph from a codebase and its docs, schemas, configs, and PDFs.
+- [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) — A collection of brand design systems in `DESIGN.md` format for coding agents.
+- [Hallmark](https://github.com/Nutlope/hallmark) — An anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- [Huashu Design](https://github.com/alchaincyf/huashu-design) — Create web and app prototypes, editable presentations, animations, and infographics from prompts.
+- [Designer Skills Pack](https://github.com/Owl-Listener/designer-skills) — Agent skills, commands, and plugins covering design research, systems, UI, interaction, and delivery.
+- [Motion Design Skill](https://github.com/LottieFiles/motion-design-skill) — Motion principles for agents, including timing, easing, and choreography; already listed under [AI Motion Graphics & Video Production](#ai-motion-graphics--video-production).
+- [Blender Agent Skills](https://github.com/EL4CTEO/blender-skills) — Blender workflows for modeling, materials, rigging, animation, rendering, and export.
+
+See the full [7 GitHub Repositories for Designers collection](7-github-repos-for-designers/README.md), with source attribution and downloadable TXT/JSON lists.
+
 ## Guides
 
 - [Agents Whitepaper — Kaggle](https://www.kaggle.com/whitepaper-agents)
