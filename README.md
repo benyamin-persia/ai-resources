@@ -63,6 +63,12 @@ Code-driven tools and agent skills for building editable animations, motion grap
 
 - [Motion Graphics Skills](https://github.com/Mort1d/motion-graphics-skills) — A broader collection for creating code-based motion graphics with AI coding agents.
 
+## Agent Skills
+
+### Planning & Ideation
+
+- [Brainstorming](https://aitmpl.com/component/skill/development/brainstorming) — A structured pre-build workflow that helps an agent inspect context, clarify requirements one question at a time, compare approaches, and confirm a written design before implementation. MIT licensed; adapted from Jesse Vincent's [obra/superpowers](https://github.com/obra/superpowers/tree/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/brainstorming). [Source](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/brainstorming) · Install: `npx claude-code-templates@latest --skill development/brainstorming`
+
 ## Guides
 
 - [Agents Whitepaper — Kaggle](https://www.kaggle.com/whitepaper-agents)
