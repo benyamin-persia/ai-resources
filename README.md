@@ -36,6 +36,21 @@ A curated collection of videos, repositories, guides, and books for learning lar
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - [Qdrant](https://github.com/qdrant/qdrant)
 
+### AI Agent Frameworks & Infrastructure
+
+- [Agno](https://github.com/agno-agi/agno) — Build agents with tools, knowledge, and memory.
+- [CrewAI](https://github.com/crewAIInc/crewAI) — Orchestrate teams of collaborative agents.
+- [Pydantic AI](https://github.com/pydantic/pydantic-ai) — Build typed, structured AI applications and agents in Python.
+- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) — Build agent workflows with tools, handoffs, and guardrails.
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) — Integrate AI capabilities into existing applications and services.
+- [Letta](https://github.com/letta-ai/letta) — Build stateful agents with persistent memory.
+- [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) — Agent framework with tool calling, code execution, MCP, and RAG.
+- [n8n](https://github.com/n8n-io/n8n) — Automate workflows across apps with native AI capabilities.
+- [LiteLLM](https://github.com/BerriAI/litellm) — Route requests to 100+ model providers through a unified API.
+- [Oxylabs Web API MCP](https://github.com/oxylabs/web-api-mcp) — Self-hostable MCP server for the Oxylabs Web API.
+
+Full list and source: [10 GitHub Repositories for Building AI Agents](10-agent-frameworks/README.md), curated from [Yarad's X post](https://x.com/Yarad_ai/status/2117627619294261316).
+
 ### AI Motion Graphics & Video Production
 
 Code-driven tools and agent skills for building editable animations, motion graphics, and videos. Curated from [Yarad's Claude video studio guide](https://x.com/Yarad_ai/status/2116177026927268266).
