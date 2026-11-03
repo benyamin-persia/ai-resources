@@ -65,6 +65,10 @@ Code-driven tools and agent skills for building editable animations, motion grap
 
 ## Agent Skills
 
+### Skill Libraries
+
+- [Claude Skills Library](https://skillsclau.de/) — Browse skills by job across areas such as marketing, sales, legal, finance, and HR. The site displayed 33,971 skills when checked on November 2, 2026; email sign-in is required to download.
+
 ### Planning & Ideation
 
 - [Brainstorming](https://aitmpl.com/component/skill/development/brainstorming) — A structured pre-build workflow that helps an agent inspect context, clarify requirements one question at a time, compare approaches, and confirm a written design before implementation. MIT licensed; adapted from Jesse Vincent's [obra/superpowers](https://github.com/obra/superpowers/tree/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/brainstorming). [Source](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/brainstorming) · Install: `npx claude-code-templates@latest --skill development/brainstorming`
