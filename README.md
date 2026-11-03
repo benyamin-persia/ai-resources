@@ -78,6 +78,7 @@ Code-driven tools and agent skills for building editable animations, motion grap
 - [Designer Skills Pack](https://github.com/Owl-Listener/designer-skills) — Agent skills, commands, and plugins covering design research, systems, UI, interaction, and delivery.
 - [Motion Design Skill](https://github.com/LottieFiles/motion-design-skill) — Motion principles for agents, including timing, easing, and choreography; already listed under [AI Motion Graphics & Video Production](#ai-motion-graphics--video-production).
 - [Blender Agent Skills](https://github.com/EL4CTEO/blender-skills) — Blender workflows for modeling, materials, rigging, animation, rendering, and export.
+- [Open 3D Skills](https://github.com/Moh4696/open-3d-skills) — Eight agent skills for Three.js scenes, scroll films, transparent video, cursor rigs, exploded views, motion assets, browser checks, and frame capture. Install with `npx skills add Moh4696/open-3d-skills` (MIT).
 
 See the full [7 GitHub Repositories for Designers collection](7-github-repos-for-designers/README.md), with source attribution and downloadable TXT/JSON lists.
 
