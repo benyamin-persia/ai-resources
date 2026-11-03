@@ -67,7 +67,7 @@ Code-driven tools and agent skills for building editable animations, motion grap
 
 ### Skill Libraries
 
-- [Claude Skills Library](https://skillsclau.de/) — Browse skills by job across areas such as marketing, sales, legal, finance, and HR. The site displayed 33,971 skills when checked on November 2, 2026; email sign-in is required to download.
+- [Claude Skills Library](https://skillsclau.de/) — Browse skills by job across areas such as marketing, sales, legal, finance, and HR. The site displayed 33,971 skills when checked on November 3, 2026; email sign-in is required to download. The [individual public skill index](skillsclau.de/README.md) lists all 2,519 detail pages from its public sitemap.
 
 ### Planning & Ideation
 
@@ -83,6 +83,7 @@ Code-driven tools and agent skills for building editable animations, motion grap
 - [Motion Design Skill](https://github.com/LottieFiles/motion-design-skill) — Motion principles for agents, including timing, easing, and choreography; already listed under [AI Motion Graphics & Video Production](#ai-motion-graphics--video-production).
 - [Blender Agent Skills](https://github.com/EL4CTEO/blender-skills) — Blender workflows for modeling, materials, rigging, animation, rendering, and export.
 - [Open 3D Skills](https://github.com/Moh4696/open-3d-skills) — Eight agent skills for Three.js scenes, scroll films, transparent video, cursor rigs, exploded views, motion assets, browser checks, and frame capture. Install with `npx skills add Moh4696/open-3d-skills` (MIT).
+- [UI/UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — Design intelligence for building polished UI/UX across multiple platforms.
 
 See the full [7 GitHub Repositories for Designers collection](7-github-repos-for-designers/README.md), with source attribution and downloadable TXT/JSON lists.
 
