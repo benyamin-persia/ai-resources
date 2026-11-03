@@ -7,15 +7,15 @@
   "count": 10,
   "notes": "Repository URLs and order preserved from the source post. All repos were checked on GitHub on 2026-11-03. n8n documentation describes it as fair-code licensed.",
   "repositories": [
-    {"number": 1, "name": "Agno", "url": "https://github.com/agno-agi/agno", "category": "Agent framework", "description": "Build agents with tools, knowledge, and memory."},
-    {"number": 2, "name": "CrewAI", "url": "https://github.com/crewAIInc/crewAI", "category": "Multi-agent orchestration", "description": "Coordinate role-based agents on complex tasks."},
-    {"number": 3, "name": "Pydantic AI", "url": "https://github.com/pydantic/pydantic-ai", "category": "Agent framework", "description": "Build typed AI applications and agents in Python."},
-    {"number": 4, "name": "OpenAI Agents SDK", "url": "https://github.com/openai/openai-agents-python", "category": "Agent framework", "description": "Compose tool-using agent workflows with handoffs and guardrails."},
-    {"number": 5, "name": "Semantic Kernel", "url": "https://github.com/microsoft/semantic-kernel", "category": "AI application framework", "description": "Integrate AI capabilities into existing applications and services."},
-    {"number": 6, "name": "Letta", "url": "https://github.com/letta-ai/letta", "category": "Stateful agents & memory", "description": "Build agents with persistent state and memory."},
-    {"number": 7, "name": "Qwen-Agent", "url": "https://github.com/QwenLM/Qwen-Agent", "category": "Agent framework", "description": "Build agents with tool calling, code execution, MCP, and RAG."},
-    {"number": 8, "name": "n8n", "url": "https://github.com/n8n-io/n8n", "category": "Workflow automation", "description": "Automate workflows across applications with native AI capabilities.", "license_note": "Fair-code; not a standard OSI open-source license."},
-    {"number": 9, "name": "LiteLLM", "url": "https://github.com/BerriAI/litellm", "category": "Model gateway", "description": "Route to 100+ model providers through a unified API."},
-    {"number": 10, "name": "Oxylabs Web API MCP", "url": "https://github.com/oxylabs/web-api-mcp", "category": "Web access / MCP", "description": "Connect agents to Oxylabs Web API through a self-hostable MCP server."}
+    {"number": 1, "name": "Agno", "url": "https://github.com/agno-agi/agno", "fork_url": "https://github.com/benyamin-persia/agno", "category": "Agent framework", "description": "Build agents with tools, knowledge, and memory."},
+    {"number": 2, "name": "CrewAI", "url": "https://github.com/crewAIInc/crewAI", "fork_url": "https://github.com/benyamin-persia/crewAI", "category": "Multi-agent orchestration", "description": "Coordinate role-based agents on complex tasks."},
+    {"number": 3, "name": "Pydantic AI", "url": "https://github.com/pydantic/pydantic-ai", "fork_url": "https://github.com/benyamin-persia/pydantic-ai", "category": "Agent framework", "description": "Build typed AI applications and agents in Python."},
+    {"number": 4, "name": "OpenAI Agents SDK", "url": "https://github.com/openai/openai-agents-python", "fork_url": "https://github.com/benyamin-persia/openai-agents-python", "category": "Agent framework", "description": "Compose tool-using agent workflows with handoffs and guardrails."},
+    {"number": 5, "name": "Semantic Kernel", "url": "https://github.com/microsoft/semantic-kernel", "fork_url": "https://github.com/benyamin-persia/semantic-kernel", "category": "AI application framework", "description": "Integrate AI capabilities into existing applications and services."},
+    {"number": 6, "name": "Letta", "url": "https://github.com/letta-ai/letta", "fork_url": "https://github.com/benyamin-persia/letta", "category": "Stateful agents & memory", "description": "Build agents with persistent state and memory."},
+    {"number": 7, "name": "Qwen-Agent", "url": "https://github.com/QwenLM/Qwen-Agent", "fork_url": "https://github.com/benyamin-persia/Qwen-Agent", "category": "Agent framework", "description": "Build agents with tool calling, code execution, MCP, and RAG."},
+    {"number": 8, "name": "n8n", "url": "https://github.com/n8n-io/n8n", "fork_url": "https://github.com/benyamin-persia/n8n", "category": "Workflow automation", "description": "Automate workflows across applications with native AI capabilities.", "license_note": "Fair-code; not a standard OSI open-source license."},
+    {"number": 9, "name": "LiteLLM", "url": "https://github.com/BerriAI/litellm", "fork_url": "https://github.com/benyamin-persia/litellm", "category": "Model gateway", "description": "Route to 100+ model providers through a unified API."},
+    {"number": 10, "name": "Oxylabs Web API MCP", "url": "https://github.com/oxylabs/web-api-mcp", "fork_url": "https://github.com/benyamin-persia/web-api-mcp", "category": "Web access / MCP", "description": "Connect agents to Oxylabs Web API through a self-hostable MCP server."}
   ]
 }

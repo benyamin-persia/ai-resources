@@ -1,0 +1,10 @@
+https://github.com/benyamin-persia/agno
+https://github.com/benyamin-persia/crewAI
+https://github.com/benyamin-persia/pydantic-ai
+https://github.com/benyamin-persia/openai-agents-python
+https://github.com/benyamin-persia/semantic-kernel
+https://github.com/benyamin-persia/letta
+https://github.com/benyamin-persia/Qwen-Agent
+https://github.com/benyamin-persia/n8n
+https://github.com/benyamin-persia/litellm
+https://github.com/benyamin-persia/web-api-mcp
