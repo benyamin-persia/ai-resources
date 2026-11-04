@@ -1,0 +1,19 @@
+{
+  "title": "8 AI Design Websites",
+  "source_url": "https://x.com/viktoroddy/status/2117585451502719144",
+  "source_author": "viktoroddy",
+  "source_published_at": "Tue Nov 03 11:51:29 +0000 2026",
+  "collected_on": "2026-11-03",
+  "count": 8,
+  "notes": "URLs and order preserved from the post. Four entries are cross-listed in the earlier AI & Web Design collection. Land-book returned 403 to curl but was accessible in the browser check. Godly.website redirected to Recent Design.",
+  "websites": [
+    {"number": 1, "name": "Studio Motionsites", "url": "http://studio.motionsites.ai", "resolved_url": "https://studio.motionsites.ai/", "category": "AI site building", "description": "Website builder described in the post as a lower-cost alternative to Lovable."},
+    {"number": 2, "name": "Motionsites", "url": "http://motionsites.ai", "resolved_url": "https://motionsites.ai/", "category": "Design prompts", "description": "Premium website prompts, including 3D sites and motion sections."},
+    {"number": 3, "name": "Land-book", "url": "http://land-book.com", "resolved_url": "https://land-book.com/", "category": "Design inspiration", "description": "Curated landing page examples.", "http_status_curl": 403, "browser_accessible": true},
+    {"number": 4, "name": "Recent Design", "url": "http://recent.design", "resolved_url": "https://recent.design/", "category": "Design inspiration", "description": "Gallery of web design inspiration."},
+    {"number": 5, "name": "Landdding", "url": "http://landdding.com", "resolved_url": "https://landdding.com/", "category": "Design inspiration", "description": "Landing page examples.", "also_in_collection": "../10-ai-web-design-resources/README.md"},
+    {"number": 6, "name": "Font in Logo", "url": "http://fontinlogo.com", "resolved_url": "https://www.fontinlogo.com/", "category": "Design assets", "description": "Find fonts used in brand logos.", "also_in_collection": "../10-ai-web-design-resources/README.md"},
+    {"number": 7, "name": "Godly", "url": "http://godly.website", "resolved_url": "https://recent.design/?ref=godly", "category": "Design inspiration", "description": "Award-winning website examples.", "also_in_collection": "../10-ai-web-design-resources/README.md"},
+    {"number": 8, "name": "60fps.design", "url": "http://60fps.design", "resolved_url": "https://60fps.design/", "category": "UI motion inspiration", "description": "Mobile interface animations.", "also_in_collection": "../10-ai-web-design-resources/README.md"}
+  ]
+}

@@ -126,3 +126,4 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 
 - [50 Useful Websites](50-useful-websites/README.md) — All 50 links from Bhanu Singh Yede's September 7, 2026 post, with short descriptions, categories, and TXT/JSON copies.
 - [10 AI & Web Design Resources](10-ai-web-design-resources/README.md) — Product-building and design resources from Krisha's October 30, 2026 post, organized by purpose with TXT/JSON copies.
+- [8 AI Design Websites](8-ai-design-websites/README.md) — Design tools and inspiration links from Viktor Oddy's November 3, 2026 post, listed individually with TXT/JSON copies.
