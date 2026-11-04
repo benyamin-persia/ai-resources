@@ -53,7 +53,26 @@ Full list and source: [10 GitHub Repositories for Building AI Agents](10-agent-f
 
 ### AI Motion Graphics & Video Production
 
-Code-driven tools and agent skills for building editable animations, motion graphics, and videos. Curated from [Yarad's Claude video studio guide](https://x.com/Yarad_ai/status/2116177026927268266).
+Code-driven tools and agent skills for building editable animations, motion graphics, and videos. Curated from [Yarad's Claude video studio guide](https://x.com/Yarad_ai/status/2116177026927268266) and [0xnicc0's AI video production stack](https://x.com/0xnicc0/status/2117592218663784631).
+
+#### AI Video Production Stack
+
+All 14 repositories from 0xnicc0's post, with upstreams and the individual forks in [the complete collection](14-ai-video-production/README.md). Forks are linked explicitly there; `chatterbox-upstream` is named separately because `benyamin-persia/Chatterbox` already existed as a non-fork.
+
+- [Remotion Skills](https://github.com/remotion-dev/skills) — Agent workflow for planning and building videos. Fork: [skills](https://github.com/benyamin-persia/skills).
+- [Blender](https://github.com/blender/blender) — 3D modeling, rigging, and rendering. Fork: [blender](https://github.com/benyamin-persia/blender).
+- [faster-whisper](https://github.com/SYSTRAN/faster-whisper) — Transcribe voiceovers into captions. Fork: [faster-whisper](https://github.com/benyamin-persia/faster-whisper).
+- [Chatterbox](https://github.com/resemble-ai/chatterbox) — Generate voiceovers from text. Fork: [chatterbox-upstream](https://github.com/benyamin-persia/chatterbox-upstream).
+- [GSAP](https://github.com/greensock/GSAP) — Timeline-based web animation and moving text. Fork: [GSAP](https://github.com/benyamin-persia/GSAP).
+- [Blender MCP](https://github.com/ahujasid/mcp-for-blender) — Let Claude control Blender scenes. Fork: [mcp-for-blender](https://github.com/benyamin-persia/mcp-for-blender).
+- [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Inspect rendered video and catch issues. Fork: [chrome-devtools-mcp](https://github.com/benyamin-persia/chrome-devtools-mcp).
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) — Inspect, convert, and export media. Fork: [FFmpeg](https://github.com/benyamin-persia/FFmpeg).
+- [Remotion](https://github.com/remotion-dev/remotion) — Create and render videos programmatically with React. Fork: [remotion](https://github.com/benyamin-persia/remotion).
+- [Impeccable](https://github.com/pbakaus/impeccable) — Review and polish visual design. Fork: [impeccable](https://github.com/benyamin-persia/impeccable).
+- [Three.js](https://github.com/mrdoob/three.js) — Browser-based 3D graphics. Fork: [three.js](https://github.com/benyamin-persia/three.js).
+- [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Node-based, self-hosted image and video generation. Fork: [ComfyUI](https://github.com/benyamin-persia/ComfyUI).
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Fetch reference clips and audio. Fork: [yt-dlp](https://github.com/benyamin-persia/yt-dlp).
+- [HyperFrames](https://github.com/heygen-com/hyperframes) — Turn HTML scenes into videos. Fork: [hyperframes](https://github.com/benyamin-persia/hyperframes).
 
 #### Video Creation and Editing
 

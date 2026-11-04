@@ -1,0 +1,20 @@
+{
+  "source": "https://x.com/0xnicc0/status/2117592218663784631",
+  "collected_on": "2026-11-04",
+  "items": [
+    {"category":"Agent workflow","name":"Remotion Skills","purpose":"Teach agents the workflow for building videos.","upstream":"https://github.com/remotion-dev/skills","fork":"https://github.com/benyamin-persia/skills","fork_status":"existing"},
+    {"category":"3D creation","name":"Blender","purpose":"Create 3D models, rigs, and renders.","upstream":"https://github.com/blender/blender","fork":"https://github.com/benyamin-persia/blender","fork_status":"created"},
+    {"category":"Transcription","name":"faster-whisper","purpose":"Transcribe voiceovers into captions.","upstream":"https://github.com/SYSTRAN/faster-whisper","fork":"https://github.com/benyamin-persia/faster-whisper","fork_status":"created"},
+    {"category":"Voice generation","name":"Chatterbox","purpose":"Generate voiceovers from text.","upstream":"https://github.com/resemble-ai/chatterbox","fork":"https://github.com/benyamin-persia/chatterbox-upstream","fork_status":"created","note":"Fork named chatterbox-upstream because benyamin-persia/Chatterbox already existed as a non-fork."},
+    {"category":"Web animation","name":"GSAP","purpose":"Animate interfaces and moving text.","upstream":"https://github.com/greensock/GSAP","fork":"https://github.com/benyamin-persia/GSAP","fork_status":"created"},
+    {"category":"3D agent control","name":"Blender MCP","purpose":"Let Claude operate Blender scenes.","upstream":"https://github.com/ahujasid/mcp-for-blender","fork":"https://github.com/benyamin-persia/mcp-for-blender","fork_status":"existing"},
+    {"category":"Browser inspection","name":"Chrome DevTools MCP","purpose":"Inspect video output and catch mistakes.","upstream":"https://github.com/ChromeDevTools/chrome-devtools-mcp","fork":"https://github.com/benyamin-persia/chrome-devtools-mcp","fork_status":"created"},
+    {"category":"Media processing","name":"FFmpeg","purpose":"Inspect, convert, and export media.","upstream":"https://github.com/FFmpeg/FFmpeg","fork":"https://github.com/benyamin-persia/FFmpeg","fork_status":"created"},
+    {"category":"Programmatic video","name":"Remotion","purpose":"Create and render videos with React.","upstream":"https://github.com/remotion-dev/remotion","fork":"https://github.com/benyamin-persia/remotion","fork_status":"created"},
+    {"category":"Design quality","name":"Impeccable","purpose":"Review and polish visual design.","upstream":"https://github.com/pbakaus/impeccable","fork":"https://github.com/benyamin-persia/impeccable","fork_status":"existing"},
+    {"category":"Browser 3D","name":"Three.js","purpose":"Render GPU-powered 3D in the browser.","upstream":"https://github.com/mrdoob/three.js","fork":"https://github.com/benyamin-persia/three.js","fork_status":"created"},
+    {"category":"Generative media","name":"ComfyUI","purpose":"Self-host image and video generation workflows.","upstream":"https://github.com/Comfy-Org/ComfyUI","fork":"https://github.com/benyamin-persia/ComfyUI","fork_status":"existing"},
+    {"category":"Reference gathering","name":"yt-dlp","purpose":"Download reference clips and audio.","upstream":"https://github.com/yt-dlp/yt-dlp","fork":"https://github.com/benyamin-persia/yt-dlp","fork_status":"existing"},
+    {"category":"HTML-to-video","name":"HyperFrames","purpose":"Turn HTML scenes into video.","upstream":"https://github.com/heygen-com/hyperframes","fork":"https://github.com/benyamin-persia/hyperframes","fork_status":"existing"}
+  ]
+}

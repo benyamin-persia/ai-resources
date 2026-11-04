@@ -1,0 +1,14 @@
+https://github.com/remotion-dev/skills
+https://github.com/blender/blender
+https://github.com/SYSTRAN/faster-whisper
+https://github.com/resemble-ai/chatterbox
+https://github.com/greensock/GSAP
+https://github.com/ahujasid/mcp-for-blender
+https://github.com/ChromeDevTools/chrome-devtools-mcp
+https://github.com/FFmpeg/FFmpeg
+https://github.com/remotion-dev/remotion
+https://github.com/pbakaus/impeccable
+https://github.com/mrdoob/three.js
+https://github.com/Comfy-Org/ComfyUI
+https://github.com/yt-dlp/yt-dlp
+https://github.com/heygen-com/hyperframes

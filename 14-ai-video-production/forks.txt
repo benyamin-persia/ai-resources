@@ -1,0 +1,14 @@
+https://github.com/benyamin-persia/skills
+https://github.com/benyamin-persia/blender
+https://github.com/benyamin-persia/faster-whisper
+https://github.com/benyamin-persia/chatterbox-upstream
+https://github.com/benyamin-persia/GSAP
+https://github.com/benyamin-persia/mcp-for-blender
+https://github.com/benyamin-persia/chrome-devtools-mcp
+https://github.com/benyamin-persia/FFmpeg
+https://github.com/benyamin-persia/remotion
+https://github.com/benyamin-persia/impeccable
+https://github.com/benyamin-persia/three.js
+https://github.com/benyamin-persia/ComfyUI
+https://github.com/benyamin-persia/yt-dlp
+https://github.com/benyamin-persia/hyperframes
