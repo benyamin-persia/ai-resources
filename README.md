@@ -55,6 +55,8 @@ Full list and source: [10 GitHub Repositories for Building AI Agents](10-agent-f
 
 Code-driven tools and agent skills for building editable animations, motion graphics, and videos. Curated from [Yarad's Claude video studio guide](https://x.com/Yarad_ai/status/2116177026927268266) and [0xnicc0's AI video production stack](https://x.com/0xnicc0/status/2117592218663784631).
 
+See also [20 Motion, Animation & Video Tools](20-motion-animation-tools/README.md), with each entry from Code Cloud's post, category, source link, and (where a GitHub repository exists) your individual fork.
+
 #### AI Video Production Stack
 
 All 14 repositories from 0xnicc0's post, with upstreams and the individual forks in [the complete collection](14-ai-video-production/README.md). Forks are linked explicitly there; `chatterbox-upstream` is named separately because `benyamin-persia/Chatterbox` already existed as a non-fork.

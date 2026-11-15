@@ -1,0 +1,27 @@
+{
+  "source": "https://x.com/codecloude/status/2121669053332775356",
+  "collected_on": "2026-11-15",
+  "items": [
+    {"category":"Design & animation","name":"Motion Design Skill","purpose":"Motion principles for AI agents.","source":"https://github.com/LottieFiles/motion-design-skill","fork":"https://github.com/benyamin-persia/motion-design-skill","fork_status":"created"},
+    {"category":"Design & animation","name":"Motion AI Kit","purpose":"Smooth, professional animations.","source":"https://github.com/motiondivision/ai-kit","fork":"https://github.com/benyamin-persia/ai-kit","fork_status":"created"},
+    {"category":"Design & animation","name":"Remotion Skills","purpose":"Video-making skills for agents.","source":"https://github.com/remotion-dev/skills","fork":"https://github.com/benyamin-persia/skills","fork_status":"existing"},
+    {"category":"Design & animation","name":"Hairline","purpose":"Interactive animated line illustrations.","source":"https://hairline.lucasmarkes.com/skills","fork":null,"fork_status":"not-a-github-repository"},
+    {"category":"Design & animation","name":"Anatomy","purpose":"Isometric views of machines and systems.","source":"https://skills.wheresryan.sh/anatomy","fork":null,"fork_status":"not-a-github-repository"},
+    {"category":"Design & animation","name":"Anatomy Reveal","purpose":"Exploded product-part reveals.","source":"https://typingmind.com/skills","fork":null,"fork_status":"not-a-github-repository"},
+    {"category":"3D & visual effects","name":"Blender Agents","purpose":"Blender agent workflows; the post links to an organization, so this matching agent/MCP-enabled plugin was selected.","source":"https://github.com/scenario-labs/blender-plugin","fork":"https://github.com/benyamin-persia/blender-plugin","fork_status":"created","post_link":"https://github.com/scenario-labs"},
+    {"category":"3D & visual effects","name":"Three.js","purpose":"Build 3D environments for the web.","source":"https://github.com/mrdoob/three.js","fork":"https://github.com/benyamin-persia/three.js","fork_status":"existing"},
+    {"category":"3D & visual effects","name":"React Three Rapier","purpose":"Physics simulation and collision for React Three Fiber.","source":"https://github.com/pmndrs/react-three-rapier","fork":"https://github.com/benyamin-persia/react-three-rapier","fork_status":"created"},
+    {"category":"3D & visual effects","name":"React Postprocessing","purpose":"Cinematic lighting and visual effects.","source":"https://github.com/pmndrs/react-postprocessing","fork":"https://github.com/benyamin-persia/react-postprocessing","fork_status":"created"},
+    {"category":"3D & visual effects","name":"Three Quarks","purpose":"Particle effects and visual effects.","source":"https://github.com/Alchemist0823/three.quarks","fork":"https://github.com/benyamin-persia/three.quarks","fork_status":"created"},
+    {"category":"3D & visual effects","name":"Tweakpane","purpose":"Live controls for scene settings.","source":"https://github.com/cocopon/tweakpane","fork":"https://github.com/benyamin-persia/tweakpane","fork_status":"created"},
+    {"category":"Video & motion","name":"GSAP","purpose":"Advanced animation and timelines.","source":"https://github.com/greensock/GSAP","fork":"https://github.com/benyamin-persia/GSAP","fork_status":"existing"},
+    {"category":"Video & motion","name":"Remotion","purpose":"Programmatic video production with React.","source":"https://github.com/remotion-dev/remotion","fork":"https://github.com/benyamin-persia/remotion","fork_status":"existing"},
+    {"category":"Video & motion","name":"Manim","purpose":"Scientific and educational animations.","source":"https://github.com/ManimCommunity/manim","fork":"https://github.com/benyamin-persia/manim","fork_status":"created"},
+    {"category":"Video & motion","name":"Lottie Web","purpose":"Lightweight vector animation playback.","source":"https://github.com/airbnb/lottie-web","fork":"https://github.com/benyamin-persia/lottie-web","fork_status":"created"},
+    {"category":"Audio & final output","name":"Openverse API","purpose":"Search audio and other openly licensed media.","source":"https://api.openverse.org/v1/","fork":null,"fork_status":"not-a-github-repository"},
+    {"category":"Audio & final output","name":"Librosa","purpose":"Music analysis and rhythm detection.","source":"https://github.com/librosa/librosa","fork":"https://github.com/benyamin-persia/librosa","fork_status":"created"},
+    {"category":"Audio & final output","name":"WhisperX","purpose":"Precisely timed transcription and subtitles.","source":"https://github.com/m-bain/whisperX","fork":"https://github.com/benyamin-persia/whisperX","fork_status":"created"},
+    {"category":"Audio & final output","name":"FFmpeg","purpose":"Process and export final video.","source":"https://github.com/FFmpeg/FFmpeg","fork":"https://github.com/benyamin-persia/FFmpeg","fork_status":"existing"}
+  ],
+  "additional_non_tool_link": "https://t.me/+Te_FX2jm5EfcxwEp"
+}

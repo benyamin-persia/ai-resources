@@ -1,0 +1,16 @@
+https://github.com/LottieFiles/motion-design-skill
+https://github.com/motiondivision/ai-kit
+https://github.com/remotion-dev/skills
+https://github.com/scenario-labs/blender-plugin
+https://github.com/mrdoob/three.js
+https://github.com/pmndrs/react-three-rapier
+https://github.com/pmndrs/react-postprocessing
+https://github.com/Alchemist0823/three.quarks
+https://github.com/cocopon/tweakpane
+https://github.com/greensock/GSAP
+https://github.com/remotion-dev/remotion
+https://github.com/ManimCommunity/manim
+https://github.com/airbnb/lottie-web
+https://github.com/librosa/librosa
+https://github.com/m-bain/whisperX
+https://github.com/FFmpeg/FFmpeg

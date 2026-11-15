@@ -1,0 +1,16 @@
+https://github.com/benyamin-persia/motion-design-skill
+https://github.com/benyamin-persia/ai-kit
+https://github.com/benyamin-persia/skills
+https://github.com/benyamin-persia/blender-plugin
+https://github.com/benyamin-persia/three.js
+https://github.com/benyamin-persia/react-three-rapier
+https://github.com/benyamin-persia/react-postprocessing
+https://github.com/benyamin-persia/three.quarks
+https://github.com/benyamin-persia/tweakpane
+https://github.com/benyamin-persia/GSAP
+https://github.com/benyamin-persia/remotion
+https://github.com/benyamin-persia/manim
+https://github.com/benyamin-persia/lottie-web
+https://github.com/benyamin-persia/librosa
+https://github.com/benyamin-persia/whisperX
+https://github.com/benyamin-persia/FFmpeg
