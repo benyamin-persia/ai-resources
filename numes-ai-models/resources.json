@@ -1,0 +1,18 @@
+{
+  "source": "https://x.com/codecloude/status/2121719960816775439",
+  "collected_on": "2026-11-15",
+  "resources": [
+    {"category":"AI model platform","name":"Numes AI","url":"https://numes.ai"},
+    {"category":"Model catalog","name":"Available models","url":"https://numes.ai/models"}
+  ],
+  "models_named_in_post": [
+    "DeepSeek V4.1 Flash",
+    "GLM 5.3",
+    "GLM Flash",
+    "Kimi K3.1 Pro",
+    "Nemotron 3 Ultra"
+  ],
+  "github_repositories": [],
+  "additional_link": "https://t.me/codecloude",
+  "notes": "Model names and access/pricing claims are attributed to the X post and were not independently verified. The models page was behind a Cloudflare check when collected."
+}
