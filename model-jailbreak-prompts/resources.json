@@ -1,5 +1,9 @@
 {
   "source": "https://x.com/pengsonal/status/2122567430988079507",
+  "related_sources": [
+    "https://x.com/pengsonal/status/2122567430988079507",
+    "https://x.com/anya_yfa7/status/2122569053051015335"
+  ],
   "collected_on": "2026-11-17",
   "category": "Model behavior and safety evaluation",
   "upstream": "https://github.com/togg53192-cmd/jailbreaks",

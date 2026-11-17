@@ -59,7 +59,7 @@ Also see [AI Agent Ecosystem: 19 GitHub Repositories](19-ai-agent-ecosystem/READ
 ## Model Behavior & Customization
 
 - [Heretic](heretic/README.md) — Training-free model modification project shared by DeepTechTR; includes the upstream and your fork.
-- [Jailbreak Prompt Collection](model-jailbreak-prompts/README.md) — A GitHub collection of model-specific jailbreak prompts linked by Pengsonal; your fork already exists.
+- [Jailbreak Prompt Collection](model-jailbreak-prompts/README.md) — A GitHub collection of model-specific jailbreak prompts linked by Pengsonal and Anya; your fork already exists.
 
 ## Rust & Code Migration
 
