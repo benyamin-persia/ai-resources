@@ -57,6 +57,8 @@ Code-driven tools and agent skills for building editable animations, motion grap
 
 See also [20 Motion, Animation & Video Tools](20-motion-animation-tools/README.md), with each entry from Code Cloud's post, category, source link, and (where a GitHub repository exists) your individual fork.
 
+- [Motion Design with Fable 5.2](motion-design-fable/README.md) — Beginner walkthrough for prompting an animated HTML video and exporting it as MP4. It links no GitHub repositories; FFmpeg is already included in your forks.
+
 #### AI Video Production Stack
 
 All 14 repositories from 0xnicc0's post, with upstreams and the individual forks in [the complete collection](14-ai-video-production/README.md). Forks are linked explicitly there; `chatterbox-upstream` is named separately because `benyamin-persia/Chatterbox` already existed as a non-fork.

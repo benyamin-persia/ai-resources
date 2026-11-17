@@ -1,0 +1,15 @@
+{
+  "source_post": "https://x.com/anstapnever/status/2121750611691712817",
+  "article": "https://x.com/i/article/2121728254080143360",
+  "title": "Motion Design with Fable 5.2: from zero to your first video in 10 minutes",
+  "collected_on": "2026-11-17",
+  "tools_mentioned": [
+    {"name":"Claude / Claude Code","purpose":"Generate and revise animated HTML."},
+    {"name":"Google Chrome","purpose":"Preview the animation."},
+    {"name":"FFmpeg","purpose":"Encode frames and combine video with audio.","existing_fork":"https://github.com/benyamin-persia/FFmpeg"},
+    {"name":"Python","purpose":"Run the optional frame-by-frame rendering script."},
+    {"name":"Playwright","purpose":"Drive browser rendering for the optional frame-by-frame export."}
+  ],
+  "github_repositories_linked": [],
+  "note": "The article's claims about model availability, pricing, and performance have not been independently verified."
+}
