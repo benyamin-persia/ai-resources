@@ -1,5 +1,9 @@
 {
   "source": "https://x.com/0xhaziq/status/2122486813080367176",
+  "related_sources": [
+    "https://x.com/0xhaziq/status/2122486813080367176",
+    "https://x.com/WojakTheDev/status/2122581216251748624"
+  ],
   "collected_on": "2026-11-17",
   "category": "Local image generation models",
   "name": "Qwen Image 2.1 Uncensored Omni Quantized",
@@ -11,6 +15,7 @@
     "access_gate": false,
     "free_to_use": true
   },
+  "additional_claims_from_related_post": ["37K+ downloads", "4.4 GB rounded file size"],
   "github_repositories": [],
   "note": "Specs and availability are attributed to the X post; check the model card for current details, license, and hardware requirements."
 }
