@@ -1,0 +1,11 @@
+{
+  "source": "https://x.com/pengsonal/status/2122567430988079507",
+  "collected_on": "2026-11-17",
+  "category": "Model behavior and safety evaluation",
+  "upstream": "https://github.com/togg53192-cmd/jailbreaks",
+  "fork": "https://github.com/benyamin-persia/jailbreaks",
+  "fork_status": "existing",
+  "model_families_named_in_post": ["Claude", "Gemini", "DeepSeek", "GLM", "Kimi", "Qwen", "Mistral", "GPT-OSS", "Nemotron", "Muse Spark"],
+  "post_claims": ["32 prompts", "26+ models"],
+  "safety_note": "The collection contains prompts intended to bypass model safeguards; use only for authorized evaluation on systems you control."
+}
