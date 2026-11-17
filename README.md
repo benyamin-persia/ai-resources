@@ -61,6 +61,7 @@ See also [20 Motion, Animation & Video Tools](20-motion-animation-tools/README.m
 
 - [10 GitHub Repos for Fable 5.2](10-fable-52-repositories/README.md) — The 10 repositories from flxrnc's post, kept in the original polish → motion → 3D → visuals → captions → export sequence, with your individual fork links.
 - [12 Repositories for Motion Video Production](12-motion-video-repositories/README.md) — Repositories from 0xrivvian's post for topic-to-video workflows, with upstreams and your forks listed one by one.
+- [7 Open-Source 3D Modeling Tools](7-open-source-3d-tools/README.md) — The repositories from The Greatest SV's 3D tools post, organized by modeling, mesh cleanup, splat editing, and web display.
 
 - [Motion Design with Fable 5.2](motion-design-fable/README.md) — Beginner walkthrough for prompting an animated HTML video and exporting it as MP4. It links no GitHub repositories; FFmpeg is already included in your forks.
 

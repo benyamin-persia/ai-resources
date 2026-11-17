@@ -1,0 +1,7 @@
+https://github.com/benyamin-persia/mcp-for-blender
+https://github.com/benyamin-persia/Hunyuan3D-2
+https://github.com/benyamin-persia/TRELLIS
+https://github.com/benyamin-persia/InstantMesh
+https://github.com/benyamin-persia/MeshAnything
+https://github.com/benyamin-persia/supersplat
+https://github.com/benyamin-persia/three.js

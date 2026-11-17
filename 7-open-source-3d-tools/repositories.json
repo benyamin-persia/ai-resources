@@ -1,0 +1,14 @@
+{
+  "source": "https://x.com/thegreatest_sv/status/2122353750912483747",
+  "collected_on": "2026-11-17",
+  "items": [
+    {"category":"Agent-assisted modeling","name":"Blender MCP","purpose":"Let Claude drive Blender to create models, materials, and scenes.","upstream":"https://github.com/ahujasid/mcp-for-blender","fork":"https://github.com/benyamin-persia/mcp-for-blender","fork_status":"existing"},
+    {"category":"Image/text to 3D","name":"Hunyuan3D 2","purpose":"Generate a textured 3D model from an image or text prompt.","upstream":"https://github.com/Tencent-Hunyuan/Hunyuan3D-2","fork":"https://github.com/benyamin-persia/Hunyuan3D-2","fork_status":"created"},
+    {"category":"Image/text to 3D","name":"TRELLIS","purpose":"Generate usable 3D assets from text or images.","upstream":"https://github.com/microsoft/TRELLIS","fork":"https://github.com/benyamin-persia/TRELLIS","fork_status":"created"},
+    {"category":"Image to mesh","name":"InstantMesh","purpose":"Generate a 3D mesh from a single image.","upstream":"https://github.com/TencentARC/InstantMesh","fork":"https://github.com/benyamin-persia/InstantMesh","fork_status":"created"},
+    {"category":"Mesh cleanup","name":"MeshAnything","purpose":"Turn generated geometry into cleaner meshes.","upstream":"https://github.com/buaacyw/MeshAnything","fork":"https://github.com/benyamin-persia/MeshAnything","fork_status":"created"},
+    {"category":"Gaussian splat editing","name":"SuperSplat","purpose":"Edit 3D Gaussian splats in a browser.","upstream":"https://github.com/playcanvas/supersplat","fork":"https://github.com/benyamin-persia/supersplat","fork_status":"existing"},
+    {"category":"Web 3D display","name":"Three.js","purpose":"Display interactive 3D scenes on a website.","upstream":"https://github.com/mrdoob/three.js","fork":"https://github.com/benyamin-persia/three.js","fork_status":"existing"}
+  ],
+  "tutorial_linked_in_post": false
+}
