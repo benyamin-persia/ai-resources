@@ -1,0 +1,26 @@
+{
+  "source_post": "https://x.com/Oluwaphilemon1/status/2122470941842166127",
+  "demonstration_video": "https://x.com/DogukanUrker/status/2100346050473074805/video/1",
+  "collected_on": "2026-11-17",
+  "category": "Local LLM inference and quantization",
+  "model_named_in_post": "Qwen3.8-35B-A3B",
+  "model_checkpoint_url_linked": false,
+  "inference_engine_mentioned": {
+    "name": "llama.cpp",
+    "upstream": "https://github.com/ggml-org/llama.cpp",
+    "fork": "https://github.com/benyamin-persia/llama.cpp",
+    "fork_status": "existing"
+  },
+  "reported_configuration_and_performance": {
+    "gpu": "NVIDIA RTX 3060 12GB",
+    "system_ram": "16GB",
+    "quantization": "Q4_K_M",
+    "cpu_offload": "26 MoE layers",
+    "flash_attention": true,
+    "kv_cache": "Q8",
+    "context_length": "up to 262K tokens",
+    "decode_speed": "about 50 tokens/s",
+    "prefill_speed": "about 550 tokens/s"
+  },
+  "note": "Configuration and performance are claims attributed to the post; they are not independently verified. Prefill and decode speeds measure different stages. The model checkpoint URL was not included."
+}
