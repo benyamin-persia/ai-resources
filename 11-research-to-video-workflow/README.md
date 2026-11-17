@@ -1,6 +1,6 @@
 # 11 Repositories for Research-to-Voice Production
 
-The 11 GitHub repositories from [Roundtable Space's X post](https://x.com/RoundtableSpace/status/2122581753449845217), organized in the workflow order research → writing → slides → video → voice. Each upstream is paired with your individual fork.
+The 11 GitHub repositories from [Roundtable Space's X post](https://x.com/RoundtableSpace/status/2122581753449845217), organized in the workflow order research → writing → slides → video → voice. Each upstream is paired with your individual fork. The first repository, `last30days-skill`, was also featured in a later [HazratCrypto post](https://x.com/HazratCrypto/status/2122690532740661724), which describes searching Reddit, X, YouTube, Hacker News, and Polymarket for the past 30 days and returning a sourced summary. The post's star count and tool compatibility claims are not independently verified here.
 
 | # | Stage | Repository | Purpose from the post | License as stated in post | Upstream | Your fork |
 |---:|---|---|---|---|---|---|
