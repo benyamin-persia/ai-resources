@@ -1,0 +1,17 @@
+{
+  "source": "https://x.com/flxrnc/status/2122310263575556436",
+  "collected_on": "2026-11-17",
+  "workflow": "polish → motion → 3D → visuals → captions → export",
+  "items": [
+    {"order":1,"stage":"Polish","name":"Impeccable","purpose":"Refine visual design and remove generic AI styling.","upstream":"https://github.com/pbakaus/impeccable","fork":"https://github.com/benyamin-persia/impeccable","fork_status":"existing"},
+    {"order":2,"stage":"Motion","name":"GSAP Skills","purpose":"Agent skills for smooth animation from the GSAP team.","upstream":"https://github.com/greensock/gsap-skills","fork":"https://github.com/benyamin-persia/gsap-skills","fork_status":"created"},
+    {"order":3,"stage":"3D","name":"Three.js","purpose":"Create 3D scenes that run in a browser.","upstream":"https://github.com/mrdoob/three.js","fork":"https://github.com/benyamin-persia/three.js","fork_status":"existing"},
+    {"order":4,"stage":"3D","name":"Blender MCP","purpose":"Give an agent control of Blender.","upstream":"https://github.com/ahujasid/mcp-for-blender","fork":"https://github.com/benyamin-persia/mcp-for-blender","fork_status":"existing"},
+    {"order":5,"stage":"3D","name":"Anatomy","purpose":"Explain machines by showing their parts.","upstream":"https://github.com/wheresryan22/anatomy","fork":"https://github.com/benyamin-persia/anatomy","fork_status":"created"},
+    {"order":6,"stage":"Visuals","name":"ComfyUI","purpose":"Run image and video generation workflows locally.","upstream":"https://github.com/Comfy-Org/ComfyUI","fork":"https://github.com/benyamin-persia/ComfyUI","fork_status":"existing"},
+    {"order":7,"stage":"Captions","name":"faster-whisper","purpose":"Generate subtitles from voice recordings.","upstream":"https://github.com/SYSTRAN/faster-whisper","fork":"https://github.com/benyamin-persia/faster-whisper","fork_status":"existing"},
+    {"order":8,"stage":"Video","name":"Remotion","purpose":"Build videos programmatically with code.","upstream":"https://github.com/remotion-dev/remotion","fork":"https://github.com/benyamin-persia/remotion","fork_status":"existing"},
+    {"order":9,"stage":"Video","name":"HyperFrames","purpose":"Turn web pages into videos.","upstream":"https://github.com/heygen-com/hyperframes","fork":"https://github.com/benyamin-persia/hyperframes","fork_status":"existing"},
+    {"order":10,"stage":"Export","name":"FFmpeg","purpose":"Export and process the final animation.","upstream":"https://github.com/FFmpeg/FFmpeg","fork":"https://github.com/benyamin-persia/FFmpeg","fork_status":"existing"}
+  ]
+}
