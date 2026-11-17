@@ -1,0 +1,13 @@
+{
+  "source": "https://x.com/thegreatest_sv/status/2122308452726755451",
+  "collected_on": "2026-11-17",
+  "items": [
+    {"order":1,"role":"Coding agent","name":"Claude Code","description":"Anthropic's coding agent for understanding codebases, editing files, and running commands.","upstream":"https://github.com/anthropics/claude-code","fork":"https://github.com/benyamin-persia/claude-code","fork_status":"created"},
+    {"order":2,"role":"Autonomous loop","name":"Ralph","description":"Repeatedly run coding agents against a task until completion criteria are met.","upstream":"https://github.com/snarktank/ralph","fork":"https://github.com/benyamin-persia/ralph","fork_status":"created"},
+    {"order":3,"role":"Agent SDK","name":"Claude Agent SDK for Python","description":"Build agents with tools, permissions, and multi-step execution.","upstream":"https://github.com/anthropics/claude-agent-sdk-python","fork":"https://github.com/benyamin-persia/claude-agent-sdk-python","fork_status":"created"},
+    {"order":4,"role":"Tool protocol","name":"MCP Servers","description":"Connect agents to files, databases, search, and external services.","upstream":"https://github.com/modelcontextprotocol/servers","fork":"https://github.com/benyamin-persia/servers","fork_status":"created"},
+    {"order":5,"role":"Reusable workflows","name":"Claude Skills","description":"Package instructions, scripts, and resources into reusable skills.","upstream":"https://github.com/anthropics/skills","fork":"https://github.com/benyamin-persia/skills","fork_status":"existing"},
+    {"order":6,"role":"GitHub automation","name":"Claude Code Action","description":"Run Claude-powered development workflows through GitHub Actions.","upstream":"https://github.com/anthropics/claude-code-action","fork":"https://github.com/benyamin-persia/claude-code-action","fork_status":"created"},
+    {"order":7,"role":"Research automation","name":"autoresearch","description":"Let an agent modify code, evaluate results, and iterate on experiments.","upstream":"https://github.com/karpathy/autoresearch","fork":"https://github.com/benyamin-persia/autoresearch","fork_status":"created"}
+  ]
+}
