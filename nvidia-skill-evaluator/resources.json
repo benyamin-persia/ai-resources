@@ -1,0 +1,15 @@
+{
+  "source": "https://x.com/HazratCrypto/status/2122265515481497873",
+  "collected_on": "2026-11-17",
+  "category": "Agent skill evaluation",
+  "repository": "https://github.com/NVIDIA/SkillEvaluator",
+  "fork": "https://github.com/benyamin-persia/SkillEvaluator",
+  "install_command": "pip install skillevaluator",
+  "example_command": "skillevaluator validate ./my-skill --tiers 1",
+  "post_claims": [
+    "A sample skill scored 86/100 with a passing threshold of 70.",
+    "Works with Codex and OpenCode without cloud usage.",
+    "Full testing requires Docker and a model API key and may incur costs.",
+    "The project is experimental and has no official support."
+  ]
+}
