@@ -55,6 +55,10 @@ Also see [AI Agent Ecosystem: 19 GitHub Repositories](19-ai-agent-ecosystem/READ
 
 - [7 Repositories for an AI Agent Stack](7-agent-stack-repositories/README.md) — Claude Code, autonomous loops, agent SDKs, MCP servers, skills, GitHub Actions, and research automation.
 
+## Model Behavior & Customization
+
+- [Heretic](heretic/README.md) — Training-free model modification project shared by DeepTechTR; includes the upstream and your fork.
+
 ### AI Motion Graphics & Video Production
 
 Code-driven tools and agent skills for building editable animations, motion graphics, and videos. Curated from [Yarad's Claude video studio guide](https://x.com/Yarad_ai/status/2116177026927268266) and [0xnicc0's AI video production stack](https://x.com/0xnicc0/status/2117592218663784631).
