@@ -1,0 +1,19 @@
+{
+  "source": "https://x.com/0xrivvian/status/2122256587762831613",
+  "collected_on": "2026-11-17",
+  "pipeline": "topic → script → animate → cut → render",
+  "items": [
+    {"order":1,"stage":"Generate","name":"MoneyPrinterTurbo","purpose":"Turn a topic into a short video with voice and subtitles.","upstream":"https://github.com/harry0703/MoneyPrinterTurbo","fork":"https://github.com/benyamin-persia/MoneyPrinterTurbo","fork_status":"existing"},
+    {"order":2,"stage":"Animate","name":"Anime.js","purpose":"Lightweight JavaScript animation engine.","upstream":"https://github.com/juliangarnier/anime","fork":"https://github.com/benyamin-persia/anime","fork_status":"created"},
+    {"order":3,"stage":"Cut","name":"LosslessCut","purpose":"Cut clips without re-encoding.","upstream":"https://github.com/mifi/lossless-cut","fork":"https://github.com/benyamin-persia/lossless-cut","fork_status":"created"},
+    {"order":4,"stage":"Animate","name":"Lottie Web","purpose":"Play After Effects animations on websites.","upstream":"https://github.com/airbnb/lottie-web","fork":"https://github.com/benyamin-persia/lottie-web","fork_status":"existing"},
+    {"order":5,"stage":"Animate","name":"GSAP","purpose":"Professional web motion and animation.","upstream":"https://github.com/greensock/GSAP","fork":"https://github.com/benyamin-persia/GSAP","fork_status":"existing"},
+    {"order":6,"stage":"Create","name":"Graphite","purpose":"Node-based 2D motion graphics and illustration.","upstream":"https://github.com/GraphiteEditor/Graphite","fork":"https://github.com/benyamin-persia/Graphite","fork_status":"created"},
+    {"order":7,"stage":"Create","name":"Toonflow","purpose":"Script, storyboard, characters, and video in one canvas.","upstream":"https://github.com/HBAI-Ltd/Toonflow-app","fork":"https://github.com/benyamin-persia/Toonflow-app","fork_status":"created"},
+    {"order":8,"stage":"Animate","name":"Motion Canvas","purpose":"TypeScript animation with live preview.","upstream":"https://github.com/motion-canvas/motion-canvas","fork":"https://github.com/benyamin-persia/motion-canvas","fork_status":"created"},
+    {"order":9,"stage":"Cut","name":"auto-editor","purpose":"Automatically cut silence from recordings.","upstream":"https://github.com/WyattBlue/auto-editor","fork":"https://github.com/benyamin-persia/auto-editor","fork_status":"created"},
+    {"order":10,"stage":"Edit","name":"editly","purpose":"Define a complete edit in a JSON file.","upstream":"https://github.com/mifi/editly","fork":"https://github.com/benyamin-persia/editly","fork_status":"created"},
+    {"order":11,"stage":"Agent tools","name":"ffmpeg-skill","purpose":"Local FFmpeg tools callable by an agent.","upstream":"https://github.com/kajisho5/ffmpeg-skill","fork":"https://github.com/benyamin-persia/ffmpeg-skill","fork_status":"created"},
+    {"order":12,"stage":"Create","name":"Video Talkcraft","purpose":"Use Claude Code as a motion-design studio for explainers.","upstream":"https://github.com/Vincentwei1021/video-talkcraft","fork":"https://github.com/benyamin-persia/video-talkcraft","fork_status":"created"}
+  ]
+}

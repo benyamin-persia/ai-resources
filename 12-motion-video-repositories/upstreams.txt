@@ -1,0 +1,12 @@
+https://github.com/harry0703/MoneyPrinterTurbo
+https://github.com/juliangarnier/anime
+https://github.com/mifi/lossless-cut
+https://github.com/airbnb/lottie-web
+https://github.com/greensock/GSAP
+https://github.com/GraphiteEditor/Graphite
+https://github.com/HBAI-Ltd/Toonflow-app
+https://github.com/motion-canvas/motion-canvas
+https://github.com/WyattBlue/auto-editor
+https://github.com/mifi/editly
+https://github.com/kajisho5/ffmpeg-skill
+https://github.com/Vincentwei1021/video-talkcraft
