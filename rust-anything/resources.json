@@ -1,0 +1,18 @@
+{
+  "source": "https://x.com/rammcodes/status/2122652393200570745",
+  "collected_on": "2026-11-17",
+  "category": "Rust migration and code optimization",
+  "repository": "https://github.com/erkamyaman/rust-anything",
+  "fork": "https://github.com/benyamin-persia/rust-anything",
+  "source_repo_url_in_post": false,
+  "identification_note": "Selected because the repository description matches the Rust Anything project and migration workflow described in the post.",
+  "capabilities_claimed_in_post": [
+    "Gradually migrate existing applications to Rust",
+    "Compare old and new outputs",
+    "Detect performance bottlenecks",
+    "Roll back migrations when needed",
+    "Work with AI coding agents"
+  ],
+  "benchmark_claims_in_post": ["Up to 20x faster Node.js search", "17x faster Python search"],
+  "note": "Capabilities and benchmark figures are attributed to the post; consult upstream documentation and benchmark methodology."
+}

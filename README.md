@@ -61,6 +61,10 @@ Also see [AI Agent Ecosystem: 19 GitHub Repositories](19-ai-agent-ecosystem/READ
 - [Heretic](heretic/README.md) — Training-free model modification project shared by DeepTechTR; includes the upstream and your fork.
 - [Jailbreak Prompt Collection](model-jailbreak-prompts/README.md) — A GitHub collection of model-specific jailbreak prompts linked by Pengsonal; your fork already exists.
 
+## Rust & Code Migration
+
+- [Rust Anything](rust-anything/README.md) — Incremental migration of existing applications to Rust, with output comparisons and rollback; repository identified from the post's project name.
+
 ### AI Motion Graphics & Video Production
 
 Code-driven tools and agent skills for building editable animations, motion graphics, and videos. Curated from [Yarad's Claude video studio guide](https://x.com/Yarad_ai/status/2116177026927268266) and [0xnicc0's AI video production stack](https://x.com/0xnicc0/status/2117592218663784631).
