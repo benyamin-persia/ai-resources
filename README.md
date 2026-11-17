@@ -135,6 +135,10 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 
 - [Numes AI Models](numes-ai-models/README.md) — Platform and models page shared in Code Cloud's November 14, 2026 post. The post links to a website, not GitHub repositories, so there were no repos to fork.
 
+## SEO Automation
+
+- [Five AI SEO Bots Post](julian-goldie-seo-bots/README.md) — Julian Goldie's X video describes five proposed SEO-agent roles and links to a Skool group. No GitHub repositories or the referenced prompt article were linked.
+
 ## Guides
 
 - [Agents Whitepaper — Kaggle](https://www.kaggle.com/whitepaper-agents)
