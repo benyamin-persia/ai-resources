@@ -11,5 +11,6 @@
     {"name":"Playwright","purpose":"Drive browser rendering for the optional frame-by-frame export."}
   ],
   "github_repositories_linked": [],
+  "page_style": "Tutorial companion follows the source article's section order; the original article remains canonical for full prompts, examples, media, and wording.",
   "note": "The article's claims about model availability, pricing, and performance have not been independently verified."
 }
