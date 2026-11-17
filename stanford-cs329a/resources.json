@@ -1,0 +1,20 @@
+{
+  "source": "https://x.com/mentalium_/status/2122707896219656576",
+  "collected_on": "2026-11-17",
+  "category": "Self-improving agents course",
+  "playlist": "https://www.youtube.com/playlist?list=PLangBM27OtEA",
+  "lectures": [
+    {"title":"Course Overview","url":"https://www.youtube.com/watch?v=6YnLB0XbTnI"},
+    {"title":"Test-Time Compute Scaling","url":"https://www.youtube.com/watch?v=-Ggc37xLj_Y"},
+    {"title":"Robust Verification","url":"https://www.youtube.com/watch?v=p7TdPUcPoik"},
+    {"title":"Learning from Feedback with Tools/Code","url":"https://www.youtube.com/watch?v=Lxh9RF5S-K0"},
+    {"title":"Planning and Multi-Step Reasoning","url":"https://www.youtube.com/watch?v=Ml_fp9XkB8Y"},
+    {"title":"Train-Time Scaling / Scaling RL","url":"https://www.youtube.com/watch?v=yVnmHSAy3ck"},
+    {"title":"Self-Improvement and Deep Research Agents","url":"https://www.youtube.com/watch?v=Uni9dqyuuDM"},
+    {"title":"Agentic Evaluations and Long-Horizon Tasks","url":"https://www.youtube.com/watch?v=8JAqLnTaZu4"},
+    {"title":"Future Research Areas","url":"https://www.youtube.com/watch?v=AyO6wyu4DEg"}
+  ],
+  "related_reading": "https://academy.dair.ai/papers/collections/harness-engineering?view=latest",
+  "github_repositories": [],
+  "note": "The post's salary claim was not independently verified."
+}

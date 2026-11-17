@@ -12,6 +12,7 @@ A curated collection of videos, repositories, guides, and books for learning lar
 - [Building Agents with Model Context Protocol — Mahesh Murag, Anthropic](https://www.youtube.com/watch?v=kQmXtrmQ5Zg)
 - [Let's Build an Agent from Scratch — Kam Lasater](https://www.youtube.com/watch?v=xzXdLRUyjUg)
 - [PhiloAgents — YouTube Playlist](https://www.youtube.com/playlist?list=PLacQJwuclt_sV-tfZmpT1Ov6jldHl30NR)
+- [Stanford CS329A: Self-Improving Agents](stanford-cs329a/README.md) — Nine lectures on test-time scaling, verification, feedback, planning, self-improvement, and agentic evaluations, plus a harness-engineering papers collection.
 
 ## Repositories
 
