@@ -75,6 +75,7 @@ See also [20 Motion, Animation & Video Tools](20-motion-animation-tools/README.m
 - [12 Repositories for Motion Video Production](12-motion-video-repositories/README.md) — Repositories from 0xrivvian's post for topic-to-video workflows, with upstreams and your forks listed one by one.
 - [7 Open-Source 3D Modeling Tools](7-open-source-3d-tools/README.md) — The repositories from The Greatest SV's 3D tools post, organized by modeling, mesh cleanup, splat editing, and web display.
 - [11 Repositories for Research-to-Voice Production](11-research-to-video-workflow/README.md) — A research → writing → slides → video → voice stack, with source and fork links plus license cautions from Roundtable Space's post.
+- [Fable 5.2 Creative-App Automation Playbook](fable52-creative-app-automation/README.md) — Tutorial outline for code-driven automation and validation in Blender, 3ds Max, Unreal, Illustrator, and Figma.
 
 - [Motion Design with Fable 5.2](motion-design-fable/README.md) — Beginner walkthrough for prompting an animated HTML video and exporting it as MP4. It links no GitHub repositories; FFmpeg is already included in your forks.
 
