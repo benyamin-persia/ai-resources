@@ -1,0 +1,16 @@
+{
+  "source": "https://x.com/Nyxelarm/status/2122701609897500837",
+  "collected_on": "2026-11-17",
+  "category": "Open-weight local language models",
+  "model_page": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+  "format": "GGUF quantizations",
+  "runtimes_named_in_post": ["Ollama", "LM Studio", "llama.cpp"],
+  "claims_in_post": [
+    "More than 4 million downloads in the prior month",
+    "No refusals",
+    "Reasoning and coding ability remain essentially intact",
+    "Some quantizations can run with 16 GB VRAM"
+  ],
+  "github_repositories": [],
+  "note": "Claims are attributed to the X post and are not independently verified; check the Hugging Face model card for current details and requirements."
+}

@@ -146,6 +146,7 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 ## AI Model Platforms
 
 - [Numes AI Models](numes-ai-models/README.md) — Platform and models page shared in Code Cloud's November 14, 2026 post. The post links to a website, not GitHub repositories, so there were no repos to fork.
+- [Huihui Qwen 3.8 27B Abliterated GGUF](huihui-qwen-gguf/README.md) — Hugging Face model page shared by Nyxelarm, with the post's local-inference notes and claims.
 
 ## SEO Automation
 
