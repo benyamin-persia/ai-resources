@@ -1,0 +1,20 @@
+{
+  "source": "https://x.com/RoundtableSpace/status/2122581753449845217",
+  "collected_on": "2026-11-17",
+  "workflow": "research → write → slides → video → voice",
+  "license_note": "License statements are attributed to the post and must be checked against current upstream code, model-weight, and asset licenses before use.",
+  "voice_consent_note": "The post advises cloning a voice only with the speaker's consent.",
+  "items": [
+    {"order":1,"stage":"Research","name":"last30days-skill","purpose":"Research a topic across Reddit, YouTube, Hacker News, and the web.","license_as_posted":"MIT","upstream":"https://github.com/mvanhorn/last30days-skill","fork":"https://github.com/benyamin-persia/last30days-skill","fork_status":"existing"},
+    {"order":2,"stage":"Video understanding","name":"claude-video","purpose":"Ask questions about a video Claude has watched.","license_as_posted":"MIT","upstream":"https://github.com/bradautomates/claude-video","fork":"https://github.com/benyamin-persia/claude-video","fork_status":"created"},
+    {"order":3,"stage":"Writing","name":"humanizer","purpose":"Revise drafts to reduce signs of AI-generated prose.","license_as_posted":"MIT","upstream":"https://github.com/blader/humanizer","fork":"https://github.com/benyamin-persia/humanizer","fork_status":"existing"},
+    {"order":4,"stage":"Slides","name":"frontend-slides","purpose":"Create animated HTML slides from a prompt or PowerPoint.","license_as_posted":"MIT","upstream":"https://github.com/zarazhangrui/frontend-slides","fork":"https://github.com/benyamin-persia/frontend-slides","fork_status":"created"},
+    {"order":5,"stage":"Slides & narration","name":"ppt-master","purpose":"Turn documents into editable PowerPoint decks with speaker-note narration.","license_as_posted":"MIT","upstream":"https://github.com/hugohe3/ppt-master","fork":"https://github.com/benyamin-persia/ppt-master","fork_status":"created"},
+    {"order":6,"stage":"Video rendering","name":"HyperFrames","purpose":"Write HTML scenes and render them as video.","license_as_posted":"Apache-2.0","upstream":"https://github.com/heygen-com/hyperframes","fork":"https://github.com/benyamin-persia/hyperframes","fork_status":"existing"},
+    {"order":7,"stage":"Video editing","name":"video-use","purpose":"Edit raw footage conversationally; post says it requires an ElevenLabs key.","license_as_posted":"MIT","upstream":"https://github.com/browser-use/video-use","fork":"https://github.com/benyamin-persia/video-use","fork_status":"existing"},
+    {"order":8,"stage":"Video production","name":"OpenMontage","purpose":"Let a coding agent run a video-production workflow.","license_as_posted":"AGPL-3.0","upstream":"https://github.com/calesthio/OpenMontage","fork":"https://github.com/benyamin-persia/OpenMontage","fork_status":"created"},
+    {"order":9,"stage":"Text to speech","name":"Pocket TTS","purpose":"Generate speech on a CPU.","license_as_posted":"MIT code","upstream":"https://github.com/kyutai-labs/pocket-tts","fork":"https://github.com/benyamin-persia/pocket-tts","fork_status":"created"},
+    {"order":10,"stage":"Text to speech","name":"Phonon / xn-ptts","purpose":"On-device text-to-speech; post notes multilingual weights are non-commercial.","license_as_posted":"Apache-2.0 code; non-commercial weights","upstream":"https://github.com/gradium-ai/xn-ptts","fork":"https://github.com/benyamin-persia/xn-ptts","fork_status":"created"},
+    {"order":11,"stage":"Voice cloning","name":"ZONOS3-Mini","purpose":"Text-to-speech with voice cloning in multiple languages.","license_as_posted":"Apache-2.0 weights, per post","upstream":"https://github.com/Zyphra/ZONOS3-Mini","fork":"https://github.com/benyamin-persia/ZONOS3-Mini","fork_status":"created"}
+  ]
+}

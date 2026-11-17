@@ -1,0 +1,11 @@
+https://github.com/mvanhorn/last30days-skill
+https://github.com/bradautomates/claude-video
+https://github.com/blader/humanizer
+https://github.com/zarazhangrui/frontend-slides
+https://github.com/hugohe3/ppt-master
+https://github.com/heygen-com/hyperframes
+https://github.com/browser-use/video-use
+https://github.com/calesthio/OpenMontage
+https://github.com/kyutai-labs/pocket-tts
+https://github.com/gradium-ai/xn-ptts
+https://github.com/Zyphra/ZONOS3-Mini
