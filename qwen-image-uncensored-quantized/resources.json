@@ -1,0 +1,16 @@
+{
+  "source": "https://x.com/0xhaziq/status/2122486813080367176",
+  "collected_on": "2026-11-17",
+  "category": "Local image generation models",
+  "name": "Qwen Image 2.1 Uncensored Omni Quantized",
+  "model_page": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+  "post_claims": {
+    "quantization_file_size": "4.47 GB Q4_K_M",
+    "capabilities": ["Text-to-image generation", "Image editing"],
+    "comfyui_gguf_support": true,
+    "access_gate": false,
+    "free_to_use": true
+  },
+  "github_repositories": [],
+  "note": "Specs and availability are attributed to the X post; check the model card for current details, license, and hardware requirements."
+}
