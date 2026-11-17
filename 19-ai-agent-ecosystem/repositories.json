@@ -1,0 +1,28 @@
+{
+  "source_post": "https://x.com/thegreatest_sv/status/2080634616860320073",
+  "source_article": "https://x.com/i/article/2121728254080143360",
+  "collected_on": "2026-11-17",
+  "items": [
+    {"category":"Ecosystem index","name":"awesome-ai-agents","purpose":"Curated AI agent directory with categories and JSON/YAML data.","upstream":"https://github.com/slavakurilyak/awesome-ai-agents","fork":"https://github.com/benyamin-persia/awesome-ai-agents","fork_status":"created"},
+    {"category":"Local inference","name":"Ollama","purpose":"Run language models locally.","upstream":"https://github.com/ollama/ollama","fork":"https://github.com/benyamin-persia/ollama","fork_status":"existing"},
+    {"category":"LLM framework","name":"LangChain","purpose":"Build LLM applications with integrations and tooling.","upstream":"https://github.com/langchain-ai/langchain","fork":"https://github.com/benyamin-persia/langchain","fork_status":"existing"},
+    {"category":"Computer-use agent","name":"Open Interpreter","purpose":"Let a model execute code and control a computer.","upstream":"https://github.com/OpenInterpreter/open-interpreter","fork":"https://github.com/benyamin-persia/openinterpreter","fork_status":"created"},
+    {"category":"Multi-agent framework","name":"AutoGen","purpose":"Build applications with collaborating agents.","upstream":"https://github.com/microsoft/autogen","fork":"https://github.com/benyamin-persia/autogen","fork_status":"existing"},
+    {"category":"Coding agent","name":"Aider","purpose":"AI pair programming in a local Git repository.","upstream":"https://github.com/paul-gauthier/aider","fork":"https://github.com/benyamin-persia/aider","fork_status":"existing"},
+    {"category":"Multi-agent framework","name":"CrewAI","purpose":"Coordinate role-based agents.","upstream":"https://github.com/joaomdmoura/crewai","fork":"https://github.com/benyamin-persia/crewAI","fork_status":"existing"},
+    {"category":"Autonomous agent","name":"AutoGPT","purpose":"Build and run autonomous agent workflows.","upstream":"https://github.com/Significant-Gravitas/AutoGPT","fork":"https://github.com/benyamin-persia/AutoGPT","fork_status":"created"},
+    {"category":"Coding assistant","name":"Continue","purpose":"AI coding assistance for IDEs.","upstream":"https://github.com/continuedev/continue","fork":"https://github.com/benyamin-persia/continue","fork_status":"created"},
+    {"category":"Agent memory","name":"mem0","purpose":"Persistent memory layer for AI applications.","upstream":"https://github.com/mem0ai/mem0","fork":"https://github.com/benyamin-persia/mem0","fork_status":"existing"},
+    {"category":"Evaluation","name":"AgentOps","purpose":"Trace and debug agent runs.","upstream":"https://github.com/AgentOps-AI/agentops","fork":"https://github.com/benyamin-persia/agentops","fork_status":"created"},
+    {"category":"Benchmarking","name":"AgentBench","purpose":"Evaluate LLMs as agents across environments.","upstream":"https://github.com/THUDM/AgentBench","fork":"https://github.com/benyamin-persia/AgentBench","fork_status":"created"},
+    {"category":"Visual workflow builder","name":"Flowise","purpose":"Build LLM workflows with a visual interface.","upstream":"https://github.com/FlowiseAI/Flowise","fork":"https://github.com/benyamin-persia/Flowise","fork_status":"created"},
+    {"category":"Code sandbox","name":"E2B","purpose":"Run generated code in isolated cloud sandboxes.","upstream":"https://github.com/e2b-dev/E2B","fork":"https://github.com/benyamin-persia/E2B","fork_status":"created"},
+    {"category":"Agent UI framework","name":"Vercel AI SDK","purpose":"Build streaming AI interfaces.","upstream":"https://github.com/vercel/ai","fork":"https://github.com/benyamin-persia/ai","fork_status":"created"},
+    {"category":"Prompt/pipeline optimization","name":"DSPy","purpose":"Program and optimize language model pipelines.","upstream":"https://github.com/stanfordnlp/dspy","fork":"https://github.com/benyamin-persia/dspy","fork_status":"created"},
+    {"category":"Multi-agent software","name":"MetaGPT","purpose":"Coordinate role-based agents for software tasks.","upstream":"https://github.com/geekan/MetaGPT","fork":"https://github.com/benyamin-persia/MetaGPT","fork_status":"existing"},
+    {"category":"Private document Q&A","name":"PrivateGPT","purpose":"Ask questions about documents with local/private deployment options.","upstream":"https://github.com/zylon-ai/private-gpt","fork":"https://github.com/benyamin-persia/private-gpt","fork_status":"created"},
+    {"category":"Multi-agent framework","name":"CAMEL","purpose":"Research and build communicative multi-agent systems.","upstream":"https://github.com/camel-ai/camel","fork":"https://github.com/benyamin-persia/camel","fork_status":"created"}
+  ],
+  "commercial_services_mentioned": ["Composio", "ElevenLabs", "Deepgram"],
+  "note": "Star counts, tool status, and licensing claims in the article are time-sensitive and should be verified at the upstream repositories."
+}
