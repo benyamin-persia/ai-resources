@@ -1,0 +1,41 @@
+{
+  "title": "Uncensored Model Tier List",
+  "source_url": "https://x.com/Av1dlive/status/2122755432599142890",
+  "source_author": "Av1dlive",
+  "collected_on": "2026-11-18",
+  "count": 20,
+  "notes": "Use-case rankings are claims/recommendations from the post, not independently verified. Exact model-card URLs, quantizations, and checkpoint IDs were generally not supplied.",
+  "publishers_mentioned": [
+    "https://huggingface.co/huihui-ai",
+    "https://huggingface.co/llmfan46",
+    "https://huggingface.co/TheDrummer",
+    "https://huggingface.co/NousResearch",
+    "https://venice.ai/"
+  ],
+  "models": [
+    {"use_case":"Best overall","model":"Qwen3.8 27B Abliterated"},
+    {"use_case":"Hosted","model":"DeepSeek V4.1 Flash Uncensored (Venice)"},
+    {"use_case":"Small GPU","model":"Gemma 4 12B Uncensored"},
+    {"use_case":"Fast","model":"Qwen3.6 35B-A3B Heretic"},
+    {"use_case":"Agents","model":"Qwen3.8 27B Abliterated"},
+    {"use_case":"Writing","model":"Gemma 4 26B-A4B Ultra Heretic"},
+    {"use_case":"Roleplay","model":"Cydonia 24B v4.3"},
+    {"use_case":"Natural (no surgery)","model":"Hermes 4.3 36B"},
+    {"use_case":"Reasoning","model":"Gemma 4 31B Heretic"},
+    {"use_case":"Vision","model":"Gemma 4 Heretic (size/checkpoint unspecified)"},
+    {"use_case":"Coding","model":"Qwen3-Coder 30B-A3B Abliterated"},
+    {"use_case":"Laptop","model":"Gemma 4 E2B Heretic"},
+    {"use_case":"Biggest","model":"GLM 4.6 Derestricted v3"},
+    {"use_case":"Image generation","model":"Qwen-Image 2.1"},
+    {"use_case":"Image editing","model":"Qwen-Image-Edit 2511"},
+    {"use_case":"Video","model":"Wan 2.2"},
+    {"use_case":"Long context","model":"GLM 5.3 Flash Uncensored (Venice)"},
+    {"use_case":"Research","model":"DeepSeek V4.1 Flash Uncensored (Venice)"},
+    {"use_case":"Security","model":"GLM-5.3 Flash Cybersecurity"},
+    {"use_case":"Phone","model":"PocketPal AI + Gemma 4 E2B Heretic"}
+  ],
+  "pocketpal_upstream":"https://github.com/a-ghorbani/pocketpal-ai",
+  "pocketpal_fork":"https://github.com/benyamin-persia/pocketpal-ai",
+  "ollama_upstream":"https://github.com/ollama/ollama",
+  "ollama_fork":"https://github.com/benyamin-persia/ollama"
+}
