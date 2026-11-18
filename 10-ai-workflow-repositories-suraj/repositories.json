@@ -1,0 +1,19 @@
+{
+  "title": "10 AI Workflow Repositories",
+  "source_url": "https://x.com/suraj_sharma14/status/2122585528906518837",
+  "source_author": "suraj_sharma14",
+  "collected_on": "2026-11-18",
+  "count": 10,
+  "repositories": [
+    {"number":1,"name":"Ponytail","purpose":"Helps an agent avoid unnecessary code","upstream":"https://github.com/DietrichGebert/ponytail","fork":"https://github.com/benyamin-persia/ponytail","fork_status":"existing"},
+    {"number":2,"name":"Hallmark","purpose":"Helps build pages that look less AI-generated","upstream":"https://github.com/Nutlope/hallmark","fork":"https://github.com/benyamin-persia/hallmark","fork_status":"created"},
+    {"number":3,"name":"Last30Days","purpose":"Researches what Reddit, X, and YouTube are discussing this month","upstream":"https://github.com/mvanhorn/last30days-skill","fork":"https://github.com/benyamin-persia/last30days-skill","fork_status":"existing"},
+    {"number":4,"name":"Humanizer","purpose":"Reworks prose to sound more human","upstream":"https://github.com/blader/humanizer","fork":"https://github.com/benyamin-persia/humanizer","fork_status":"existing"},
+    {"number":5,"name":"Impeccable","purpose":"Design commands for polishing AI-generated frontends","upstream":"https://github.com/pbakaus/impeccable","fork":"https://github.com/benyamin-persia/impeccable","fork_status":"existing"},
+    {"number":6,"name":"REA","purpose":"Reverse-engineers app features","upstream":"https://github.com/morluto/rea","fork":"https://github.com/benyamin-persia/rea","fork_status":"existing"},
+    {"number":7,"name":"Graphify","purpose":"Maps a codebase for agent querying","upstream":"https://github.com/Graphify-Labs/graphify","fork":"https://github.com/benyamin-persia/graphify","fork_status":"created"},
+    {"number":8,"name":"Taste","purpose":"Extracts a website's design style","upstream":"https://github.com/senlindesign/taste-skill","fork":"https://github.com/benyamin-persia/taste-skill-senlindesign","fork_status":"created","note":"A differently sourced benyamin-persia/taste-skill fork already exists; this separate fork tracks the upstream listed in this post."},
+    {"number":9,"name":"Scrapling","purpose":"Web scraping for agent workflows","upstream":"https://github.com/D4Vinci/Scrapling","fork":"https://github.com/benyamin-persia/Scrapling","fork_status":"existing"},
+    {"number":10,"name":"Diagram Design","purpose":"Produces diagrams in a brand style","upstream":"https://github.com/cathrynlavery/diagram-design","fork":"https://github.com/benyamin-persia/diagram-design","fork_status":"created"}
+  ]
+}
