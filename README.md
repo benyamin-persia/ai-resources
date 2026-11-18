@@ -59,6 +59,7 @@ Full list and source: [10 GitHub Repositories for Building AI Agents](10-agent-f
 Also see [AI Agent Ecosystem: 19 GitHub Repositories](19-ai-agent-ecosystem/README.md), including the awesome-ai-agents index and the repositories linked in The Greatest SV's guide.
 
 - [7 Repositories for an AI Agent Stack](7-agent-stack-repositories/README.md) — Claude Code, autonomous loops, agent SDKs, MCP servers, skills, GitHub Actions, and research automation.
+- [50 Useful GitHub Repositories](50-useful-github-repositories-taqimolavi/README.md) — Taqi Molavi's five-category list, preserving all 50 entries (including repeats), with each distinct repo paired to your verified individual fork.
 
 ## Model Behavior & Customization
 
