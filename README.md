@@ -2,6 +2,10 @@
 
 A curated collection of videos, repositories, guides, and books for learning large language models, AI engineering, and AI agents.
 
+## Smart Home & MCP
+
+- [HA-MCP](home-assistant-ha-mcp/README.md) — Home Assistant MCP server for AI assistants to inspect/control devices and work with automations and dashboards; your fork is linked alongside upstream.
+
 ## Videos
 
 - [[1hr Talk] Intro to Large Language Models — Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
