@@ -1,0 +1,28 @@
+{
+  "title": "18 AI Design Links",
+  "source_url": "https://x.com/BardhylBytyqi/status/2122733406593146957",
+  "source_author": "BardhylBytyqi",
+  "collected_on": "2026-11-17",
+  "count": 18,
+  "notes": "Entries are preserved in the source post's order. Purpose descriptions summarize the post's labels. The post links to websites, not GitHub repositories.",
+  "websites": [
+    {"number": 1, "website": "Modulify", "url": "https://modulify.ai/", "category": "AI building tools", "description": "AI-assisted/vibe-coded website building"},
+    {"number": 2, "website": "Landdding", "url": "https://landdding.com/", "category": "Inspiration", "description": "Landing-page examples"},
+    {"number": 3, "website": "Modulify Templates", "url": "https://modulify.ai/templates", "category": "Templates", "description": "Free templates"},
+    {"number": 4, "website": "Motion in Design", "url": "https://motionin.design/", "category": "AI design tools", "description": "Build a website from one prompt"},
+    {"number": 5, "website": "Iconly", "url": "https://iconly.design/", "category": "Design assets", "description": "Icons"},
+    {"number": 6, "website": "Font in Logo", "url": "https://fontinlogo.com/", "category": "Design assets", "description": "Fonts used in brand logos"},
+    {"number": 7, "website": "On Design", "url": "https://on.design/", "category": "Community", "description": "Design community"},
+    {"number": 8, "website": "Godly", "url": "https://godly.website/", "category": "Inspiration", "description": "Award-winning websites"},
+    {"number": 9, "website": "60fps", "url": "https://60fps.design/", "category": "Motion references", "description": "Mobile UI animations"},
+    {"number": 10, "website": "Footer Design", "url": "https://footer.design/", "category": "Inspiration", "description": "Website footer examples"},
+    {"number": 11, "website": "Recent Design", "url": "https://recent.design/", "category": "Inspiration", "description": "Website design examples"},
+    {"number": 12, "website": "Backgrounds Supply", "url": "https://backgrounds.supply/", "category": "Design assets", "description": "Backgrounds"},
+    {"number": 13, "website": "Posts Design", "url": "https://posts.design/", "category": "Social design references", "description": "Posts from large brands"},
+    {"number": 14, "website": "BeUI", "url": "https://beui.dev/", "category": "UI components", "description": "Animated components"},
+    {"number": 15, "website": "Wonderlist", "url": "https://wonderlist.design/", "category": "Inspiration", "description": "Figma designs"},
+    {"number": 16, "website": "Mobbin", "url": "https://mobbin.com/", "category": "UI references", "description": "Real app screens"},
+    {"number": 17, "website": "Logo to Use", "url": "https://logotouse.com/", "category": "Design assets", "description": "Premium logos"},
+    {"number": 18, "website": "Paper Animation", "url": "https://paperanimation.ai/", "category": "Animation tools", "description": "Paper animation"}
+  ]
+}
