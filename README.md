@@ -58,6 +58,7 @@ A curated collection of videos, repositories, guides, and books for learning lar
 - [LiteLLM](https://github.com/BerriAI/litellm) — Route requests to 100+ model providers through a unified API.
 - [Oxylabs Web API MCP](https://github.com/oxylabs/web-api-mcp) — Self-hostable MCP server for the Oxylabs Web API.
 - [Qwen Code](qwen-code/README.md) — Qwen's terminal coding agent, with the individual upstream fork and notes on provider choice, preview status, and evaluation claims.
+- [Nightshift](nightshift/README.md) — Accountable long-running shifts for Cursor, Codex, and Claude Code, with the individual upstream fork and review notes.
 
 Full list and source: [10 GitHub Repositories for Building AI Agents](10-agent-frameworks/README.md), curated from [Yarad's X post](https://x.com/Yarad_ai/status/2117627619294261316).
 
