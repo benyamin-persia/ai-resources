@@ -6,6 +6,10 @@ A curated collection of videos, repositories, guides, and books for learning lar
 
 - [HA-MCP](home-assistant-ha-mcp/README.md) — Home Assistant MCP server for AI assistants to inspect/control devices and work with automations and dashboards; your fork is linked alongside upstream.
 
+## AI Voice & Audio
+
+- [VoiceStudio](voicestudio-local-audio/README.md) — Local voice cloning, video dubbing, and audiobook creation; includes the post's feature claims, your existing fork, and a voice-consent note.
+
 ## Videos
 
 - [[1hr Talk] Intro to Large Language Models — Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
