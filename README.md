@@ -155,6 +155,7 @@ All 14 repositories from 0xnicc0's post, with upstreams and the individual forks
 
 ### Design & Creative Tools
 
+- [10 Skills to Reduce AI-Generated UI Slop](10-anti-ui-slop-skills/README.md) — BenjaminUIX's list, preserving all 10 entries with website/source links and individually verified GitHub forks.
 - [Graphify](https://github.com/Graphify-Labs/graphify) — Build a queryable knowledge graph from a codebase and its docs, schemas, configs, and PDFs.
 - [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md) — A collection of brand design systems in `DESIGN.md` format for coding agents.
 - [Hallmark](https://github.com/Nutlope/hallmark) — An anti-AI-slop design skill for Claude Code, Cursor, and Codex.
