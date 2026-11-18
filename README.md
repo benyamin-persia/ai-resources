@@ -170,6 +170,7 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 
 ## AI Model Platforms
 
+- [Gemma 4 E4B Heretic GGUF for Ollama](gemma4-e4b-heretic-ollama/README.md) — DeRonin_'s CPU/older-GPU walkthrough, the Hugging Face model card, command discrepancies, and your existing Ollama fork.
 - [Numes AI Models](numes-ai-models/README.md) — Platform and models page shared in Code Cloud's November 14, 2026 post. The post links to a website, not GitHub repositories, so there were no repos to fork.
 - [Huihui Qwen 3.8 27B Abliterated GGUF](huihui-qwen-gguf/README.md) — Hugging Face model page shared by Nyxelarm, with the post's local-inference notes and claims.
 - [Qwen Image 2.1 Uncensored Omni Quantized](qwen-image-uncensored-quantized/README.md) — Hugging Face model page shared for local text-to-image generation and image editing.
