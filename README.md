@@ -71,6 +71,10 @@ Also see [AI Agent Ecosystem: 19 GitHub Repositories](19-ai-agent-ecosystem/READ
 - [Heretic](heretic/README.md) — Training-free model modification project shared by DeepTechTR; includes the upstream and your fork.
 - [Jailbreak Prompt Collection](model-jailbreak-prompts/README.md) — A GitHub collection of model-specific jailbreak prompts linked by Pengsonal and Anya; your fork already exists.
 
+## Reverse Engineering & App Research
+
+- [Local-AI Reverse-Engineering Tutorial: 35 GitHub Projects](reverse-engineering-local-ai/README.md) — All unique repositories linked in ArchiveExplorer's cited tutorial, categorized with individual upstream/fork links; includes safe-use and local-model privacy caveats.
+
 ## Rust & Code Migration
 
 - [Rust Anything](rust-anything/README.md) — Incremental migration of existing applications to Rust, with output comparisons and rollback; repository identified from the post's project name.
