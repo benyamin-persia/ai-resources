@@ -8,6 +8,7 @@ A curated collection of videos, repositories, guides, and books for learning lar
 
 ## AI Voice & Audio
 
+- [GPT-Live-1.1 Voice API](gpt-live-1-1/README.md) — Code Cloud's post about OpenAI's full-duplex voice model, with current official docs and pricing; no GitHub repositories were linked.
 - [VoiceStudio](voicestudio-local-audio/README.md) — Local voice cloning, video dubbing, and audiobook creation; includes the post's feature claims, your existing fork, and a voice-consent note.
 
 ## Videos
