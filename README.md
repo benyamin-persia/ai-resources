@@ -90,6 +90,7 @@ Code-driven tools and agent skills for building editable animations, motion grap
 
 See also [20 Motion, Animation & Video Tools](20-motion-animation-tools/README.md), with each entry from Code Cloud's post, category, source link, and (where a GitHub repository exists) your individual fork.
 
+- [motlab — Video as Code](motlab/README.md) — Agent-written canvas scenes, frame-by-frame review notes, and video export; includes your individual fork.
 - [Higgsfield Miracle](higgsfield-miracle/README.md) — Website-only, early-access video editing tool from Code Cloud's post; there is no GitHub repository in the source to fork.
 
 - [10 GitHub Repos for Fable 5.2](10-fable-52-repositories/README.md) — The 10 repositories from flxrnc's post, kept in the original polish → motion → 3D → visuals → captions → export sequence, with your individual fork links.
