@@ -1,6 +1,6 @@
 # DeepSeek V4 Pro / Qwen3.5 9B Heretic GGUF
 
-Shared in [Anya's X post](https://x.com/anya_yfa7/status/2123145473846591497): [mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF](https://huggingface.co/mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF).
+Shared in [Anya's X post](https://x.com/anya_yfa7/status/2123145473846591497) and later highlighted by [Zazzy Stardust](https://x.com/zazzy_stardust/status/2123514807383105538): [mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF](https://huggingface.co/mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF). Zazzy's attached image points to this same Hugging Face model.
 
 This is a Hugging Face model repository, not a GitHub repository, so there is no GitHub fork to create for the checkpoint. The model card identifies it as a 9B-parameter GGUF based on Qwen3.5, with a DeepSeek V4 Pro fine-tune in its model lineage. The page labels the license Apache-2.0.
 
