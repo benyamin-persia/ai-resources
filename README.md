@@ -80,6 +80,7 @@ Also see [AI Agent Ecosystem: 19 GitHub Repositories](19-ai-agent-ecosystem/READ
 
 - [Local-AI Reverse-Engineering Tutorial: 35 GitHub Projects](reverse-engineering-local-ai/README.md) — All unique repositories linked in ArchiveExplorer's cited tutorial, categorized with individual upstream/fork links; includes safe-use and local-model privacy caveats.
 - [REA, Oracles & Clean-Room Reverse-Engineering Guide](rea-opus-clean-room-guide/README.md) — N01ennn's article on evidence-backed behavioral specifications and clean-room implementation, with every linked GitHub project paired to its individual fork.
+- [Reverse-Engineering Devices with Claude Code](claude-device-reverse-engineering/README.md) — Cabbitar's device-analysis guide and all 18 linked GitHub projects, each paired with your fork; 12 missing repositories were individually forked.
 
 ## Rust & Code Migration
 
