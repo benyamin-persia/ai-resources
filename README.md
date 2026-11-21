@@ -186,6 +186,7 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 
 ## AI Model Platforms
 
+- [Strata Local Inference Engine](strata-local-inference/README.md) — Run Qwen3.8-Flash-Next locally and connect coding tools through local APIs; includes your individual fork and a note on total RAM/disk requirements beyond GPU VRAM.
 - [Gemma 4 E4B Heretic GGUF for Ollama](gemma4-e4b-heretic-ollama/README.md) — DeRonin_'s CPU/older-GPU walkthrough, the Hugging Face model card, command discrepancies, and your existing Ollama fork.
 - [Gemma 4 12B Heretic Abliterated GGUF](gemma4-12b-heretic-gguf/README.md) — Mingzi206's Hugging Face model link, quantization/hardware caveats, and your existing Ollama fork.
 - [DeepSeek V4 Pro / Qwen3.5 9B Heretic GGUF](deepseek-v4-pro-qwen35-9b-gguf/README.md) — Hugging Face model highlighted by Anya and Zazzy Stardust; includes quant sizes, a local Ollama command, and a note that capability claims are unverified. There is no GitHub repo to fork.
