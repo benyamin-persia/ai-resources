@@ -70,6 +70,7 @@ Also see [AI Agent Ecosystem: 19 GitHub Repositories](19-ai-agent-ecosystem/READ
 - [7 Repositories for an AI Agent Stack](7-agent-stack-repositories/README.md) — Claude Code, autonomous loops, agent SDKs, MCP servers, skills, GitHub Actions, and research automation.
 - [10 AI Workflow Repositories](10-ai-workflow-repositories-suraj/README.md) — All ten repos from Suraj Sharma's post, with individual upstream/fork pairs and duplicate-fork checks.
 - [50 Useful GitHub Repositories](50-useful-github-repositories-taqimolavi/README.md) — Taqi Molavi's five-category list, preserving all 50 entries (including repeats), with each distinct repo paired to your verified individual fork.
+- [7 Open-Source Work Automation Projects](7-open-source-work-automation/README.md) — Taqi Molavi's workflow, video, document, meeting, voice, browser, and desktop automation picks, each paired with your individual fork.
 
 ## Model Behavior & Customization
 
