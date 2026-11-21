@@ -169,6 +169,7 @@ All 14 repositories from 0xnicc0's post, with upstreams and the individual forks
 
 ### Design & Creative Tools
 
+- [Stageshow UI Skill](stageshow-skill/README.md) — Product-style React UI guidance for coding agents, with install instructions and your individually verified fork.
 - [10 Skills to Reduce AI-Generated UI Slop](10-anti-ui-slop-skills/README.md) — BenjaminUIX's list, preserving all 10 entries with website/source links and individually verified GitHub forks.
 - [Gaussian Splat Lite for Three.js](gaussian-splat-lite/README.md) — WebGPU/WebGL2 Gaussian splat rendering and large-scene streaming; matched to HazratCrypto's feature description and individually forked.
 - [Graphify](https://github.com/Graphify-Labs/graphify) — Build a queryable knowledge graph from a codebase and its docs, schemas, configs, and PDFs.
