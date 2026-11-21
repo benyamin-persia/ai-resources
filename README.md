@@ -94,6 +94,7 @@ Code-driven tools and agent skills for building editable animations, motion grap
 See also [20 Motion, Animation & Video Tools](20-motion-animation-tools/README.md), with each entry from Code Cloud's post, category, source link, and (where a GitHub repository exists) your individual fork.
 
 - [motlab — Video as Code](motlab/README.md) — Agent-written canvas scenes, frame-by-frame review notes, and video export; includes your individual fork.
+- [Cinematic Skill — Narrated Films Built in Code](cinematic-skill/README.md) — Agent workflow for code-drawn documentaries with voice timing and archival visuals; includes your individual fork.
 - [AI Short-Drama Production Projects](ai-short-drama-production/README.md) — Three AI video and drama production projects from Sheng Hou Xu Yao's post, each paired with your individual fork.
 - [Blender Character-Animation Pipeline — 10 Projects](blender-character-animation-pipeline/README.md) — Keno's character pipeline from modeling and mocap through voice, lip sync, and VRM export; all ten repositories have individual forks.
 - [Higgsfield Miracle](higgsfield-miracle/README.md) — Website-only, early-access video editing tool from Code Cloud's post; there is no GitHub repository in the source to fork.
