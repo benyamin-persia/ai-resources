@@ -232,6 +232,7 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 
 - [50 Useful Websites](50-useful-websites/README.md) — All 50 links from Bhanu Singh Yede's September 7, 2026 post, with short descriptions, categories, and TXT/JSON copies.
 - [50 Websites: The Internet's Hidden Toolbox](methcode-50-websites/README.md) — Methcode's 50-site list, preserved in source order and grouped by use; overlaps with the earlier 50-site collection. No GitHub repositories were linked.
+- [7 Book-Finding Websites](7-free-book-sites-methcode/README.md) — Seven sites from Methcode's book-links post, categorized individually with a copyright and distribution-rights reminder; no GitHub repos to fork.
 - [10 AI & Web Design Resources](10-ai-web-design-resources/README.md) — Product-building and design resources from Krisha's October 30, 2026 post, organized by purpose with TXT/JSON copies.
 - [18 AI Design Links](18-ai-design-links-bardhyl/README.md) — Bardhyl Bytyqi's design toolkit post, preserved one-by-one in source order with categories and TXT/JSON copies; overlaps with the earlier 10-resource list are noted.
 - [8 AI Design Websites](8-ai-design-websites/README.md) — Design tools and inspiration links from Viktor Oddy's November 3, 2026 post, listed individually with TXT/JSON copies.
