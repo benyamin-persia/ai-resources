@@ -209,6 +209,10 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 
 - [Five AI SEO Bots Post](julian-goldie-seo-bots/README.md) — Julian Goldie's X video describes five proposed SEO-agent roles and links to a Skool group. No GitHub repositories or the referenced prompt article were linked.
 
+## Developer Platforms
+
+- [Altare Developer Cloud](altare-cloud/README.md) — Hosted platform for compute, apps, game servers, data, networking, and AI; includes the console, docs, and a reminder to verify current plan limits and terms.
+
 ## Guides
 
 - [AI Learning Resources from Companies](ai-company-learning-resources/README.md) — Anthropic, Google, Meta, and NVIDIA learning/resource links from Methcode's post; no GitHub repositories were linked.
