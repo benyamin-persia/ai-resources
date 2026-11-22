@@ -136,6 +136,7 @@ All 14 repositories from 0xnicc0's post, with upstreams and the individual forks
 
 #### Web and UI Animation
 
+- [React Bits](react-bits/README.md) — Open-source animated React components with preview/copy and CLI installation options; includes the source post and your already-existing individual fork.
 - [Motion](https://github.com/motiondivision/motion) — A modern animation library for React and JavaScript.
 - [Lottie Web](https://github.com/airbnb/lottie-web) — Render lightweight After Effects animations across web and app platforms.
 - [GSAP](https://github.com/greensock/GSAP) — Build precise, timeline-based JavaScript animations.
