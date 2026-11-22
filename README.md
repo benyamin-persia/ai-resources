@@ -98,6 +98,7 @@ See also [20 Motion, Animation & Video Tools](20-motion-animation-tools/README.m
 - [Cinematic Skill — Narrated Films Built in Code](cinematic-skill/README.md) — Agent workflow for code-drawn documentaries with voice timing and archival visuals; includes your individual fork.
 - [AI Short-Drama Production Projects](ai-short-drama-production/README.md) — Three AI video and drama production projects from Sheng Hou Xu Yao's post, each paired with your individual fork.
 - [Blender Character-Animation Pipeline — 10 Projects](blender-character-animation-pipeline/README.md) — Keno's character pipeline from modeling and mocap through voice, lip sync, and VRM export; all ten repositories have individual forks.
+- [Cutaway — Image-to-3D Exploded Films](cutaway/README.md) — Claude Code skill that builds an approximate three.js object from a reference image and animates it; includes install requirements and your individual fork.
 - [Higgsfield Miracle](higgsfield-miracle/README.md) — Website-only, early-access video editing tool from Code Cloud's post; there is no GitHub repository in the source to fork.
 
 - [10 GitHub Repos for Fable 5.2](10-fable-52-repositories/README.md) — The 10 repositories from flxrnc's post, kept in the original polish → motion → 3D → visuals → captions → export sequence, with your individual fork links.
