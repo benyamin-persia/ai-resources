@@ -170,6 +170,7 @@ All 14 repositories from 0xnicc0's post, with upstreams and the individual forks
 ### Planning & Ideation
 
 - [Brainstorming](https://aitmpl.com/component/skill/development/brainstorming) — A structured pre-build workflow that helps an agent inspect context, clarify requirements one question at a time, compare approaches, and confirm a written design before implementation. MIT licensed; adapted from Jesse Vincent's [obra/superpowers](https://github.com/obra/superpowers/tree/2ce8aa15d05bd57213e6f746f953aafb7ded7a8b/skills/brainstorming). [Source](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/brainstorming) · Install: `npx claude-code-templates@latest --skill development/brainstorming`
+- [Skill Learning Coach](https://github.com/benyamin-persia/skill-learning-coach) — Original Claude skill inspired by Methcode's 30-day learning prompts; plans realistic goals, active practice, adaptive feedback, and a demonstrable capstone without promising mastery or income.
 
 ### Design & Creative Tools
 
