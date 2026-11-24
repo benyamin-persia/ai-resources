@@ -202,7 +202,7 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 - [Qwen 35B on RTX 3060: Local Inference Notes](qwen-35b-rtx3060/README.md) — Article/video about a reported Qwen3.8-35B-A3B llama.cpp setup on 12 GB VRAM; the specific model checkpoint isn’t linked.
 - [Qwen3.8-27B with TensorFold and DFlash2](qwen38-tensorfold-dflash2/README.md) — X article about reported speculative-decoding performance on an M5 Pro Mac mini, with links to TensorFold upstream and your fork.
 - [Qwen3.8-27B on an RTX 3090: HyperQwen](qwen38-27b-rtx3090/README.md) — The source video reports speculative-decoding and context-lookup results; the 381 tok/s figure is for reproducing text already in a long prompt, not ordinary chat.
-- [Every Free Uncensored AI Model](uncensored-ai-free/README.md) — Website directory of open models described as having reduced or removed refusal behavior, with filters for hardware and use case. The post links to a site, not GitHub, so there was no repository to fork.
+- [Every Free Uncensored AI Model](uncensored-ai-free/README.md) — Website directory of open models described as having reduced or removed refusal behavior, reshared by Nakamoto_2008 and The_MissAI; includes hardware/use-case filters and safety caveats. No GitHub repository to fork.
 - [Uncensored Model Tier List](uncensored-model-tier-list/README.md) — 20 use-case picks from Av1dlive's post, with the Hugging Face publishers, Ollama setup notes, and your PocketPal AI fork; exact checkpoint IDs were not supplied.
 
 ## SEO Automation
