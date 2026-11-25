@@ -220,7 +220,7 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 
 ## Guides
 
-- [AI Learning Resources from Companies](ai-company-learning-resources/README.md) — Anthropic, Google, Meta, and NVIDIA learning/resource links from Methcode's post; no GitHub repositories were linked.
+- [AI Learning Resources from Companies](ai-company-learning-resources/README.md) — Anthropic, Google, Meta, NVIDIA, and Microsoft learning resources from Methcode's post and Nakamoto_2008's partial repost; no GitHub repositories were linked.
 - [Agents Whitepaper — Kaggle](https://www.kaggle.com/whitepaper-agents)
 - [Agent Companion — Kaggle](https://www.kaggle.com/whitepaper-agent-companion)
 - [Building Effective Agents — Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
