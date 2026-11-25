@@ -11,6 +11,7 @@ A curated collection of videos, repositories, guides, and books for learning lar
 - [GPT-Live-1.1 Voice API](gpt-live-1-1/README.md) — Code Cloud's post about OpenAI's full-duplex voice model, with current official docs and pricing; no GitHub repositories were linked.
 - [VoiceStudio](voicestudio-local-audio/README.md) — Local voice cloning, video dubbing, and audiobook creation; includes the post's feature claims, your existing fork, and a voice-consent note.
 - [Buzz — Offline Audio and Video Transcription](buzz-offline-transcription/README.md) — Whisper-powered desktop transcription with your individual fork; includes the post's Persian-language claim and a note that upstream documents no Termux installer.
+- [Inworld Voice Isolator](voice-isolator/README.md) — Open-source 48 kHz speech isolation for recordings and live streams, with your individual fork, install requirements, and hardware/feature caveats.
 
 ## Videos
 
