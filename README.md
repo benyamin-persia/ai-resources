@@ -217,6 +217,7 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 
 ## Developer Platforms
 
+- [LightVela](lightvela/README.md) — Tencent Lighthouse team's managed cloud service for always-on Hermes Agent companions, with model/skill configuration and messaging integrations; review privacy and current plan details before use. No GitHub repository was linked.
 - [Altare Developer Cloud](altare-cloud/README.md) — Hosted platform for compute, apps, game servers, data, networking, and AI; includes the console, docs, and a reminder to verify current plan limits and terms.
 
 ## Guides
