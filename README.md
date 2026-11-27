@@ -2,6 +2,8 @@
 
 A curated collection of videos, repositories, guides, and books for learning large language models, AI engineering, and AI agents.
 
+See the [workflow and handoff](WORKFLOW_AND_HANDOFF.md) for the project's purpose, fork-by-fork process, recent activity, and a reusable prompt for processing future links.
+
 ## Smart Home & MCP
 
 - [HA-MCP](home-assistant-ha-mcp/README.md) — Home Assistant MCP server for AI assistants to inspect/control devices and work with automations and dashboards; your fork is linked alongside upstream.
