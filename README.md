@@ -81,6 +81,7 @@ Also see [AI Agent Ecosystem: 19 GitHub Repositories](19-ai-agent-ecosystem/READ
 - [Heretic](heretic/README.md) — Training-free model modification project shared by DeepTechTR; includes the upstream and your fork.
 - [OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) — Abliteration research/toolkit linked by Sojal's DeepSeek model card; your individual fork is [OBLITERATUS](https://github.com/benyamin-persia/OBLITERATUS).
 - [Jailbreak Prompt Collection](model-jailbreak-prompts/README.md) — A GitHub collection of model-specific jailbreak prompts linked by Pengsonal and Anya; your fork already exists.
+- [Model Refusal and Prompting Guide — Carnage](model-jailbreak-guide-carnage/README.md) — X article about prompts and settings for multiple models; linked claims are attributed and the bypass prompts are not duplicated here. No GitHub repo was linked.
 
 ## Reverse Engineering & App Research
 
