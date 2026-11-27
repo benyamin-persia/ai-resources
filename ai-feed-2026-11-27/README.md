@@ -25,3 +25,5 @@ Ordered by the feed capture sequence, not chronological publication order. This 
 | [Post 2126238420767047794](posts/2126238420767047794.md) | 0 | 1 | direct resource links checked |
 | [Post 2126241685147730229](posts/2126241685147730229.md) | 0 | 1 | direct resource links checked |
 | [Post 2126021565490040918](posts/2126021565490040918.md) | 1 | 0 | direct resource links checked |
+
+- [Full-post review and additional verified forks](FULL_POST_REVIEW.md)
