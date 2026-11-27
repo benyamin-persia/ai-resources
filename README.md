@@ -223,6 +223,10 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 - [LightVela](lightvela/README.md) — Tencent Lighthouse team's managed cloud service for always-on Hermes Agent companions, with model/skill configuration and messaging integrations; review privacy and current plan details before use. No GitHub repository was linked.
 - [Altare Developer Cloud](altare-cloud/README.md) — Hosted platform for compute, apps, game servers, data, networking, and AI; includes the console, docs, and a reminder to verify current plan limits and terms.
 
+## Desktop Utilities
+
+- [QuickOCR](quickocr/README.md) — Offline-first Windows/Linux screen OCR utility with multiple OCR backends and your individual upstream fork.
+
 ## Guides
 
 - [AI Learning Resources from Companies](ai-company-learning-resources/README.md) — Anthropic, Google, Meta, NVIDIA, and Microsoft learning resources from Methcode's post and Nakamoto_2008's partial repost; no GitHub repositories were linked.
