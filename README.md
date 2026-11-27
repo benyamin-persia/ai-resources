@@ -121,6 +121,8 @@ See also [20 Motion, Animation & Video Tools](20-motion-animation-tools/README.m
 
 All 14 repositories from 0xnicc0's post, with upstreams and the individual forks in [the complete collection](14-ai-video-production/README.md). Forks are linked explicitly there; `chatterbox-upstream` is named separately because `benyamin-persia/Chatterbox` already existed as a non-fork.
 
+- [13 Repositories for Animation and Creative Workflows](13-animation-repositories-carrera/README.md) — Carrera's photo, sound, look-development, camera, 3D, particle, animation, generative-media, and video picks, each paired with your verified individual fork.
+
 - [Remotion Skills](https://github.com/remotion-dev/skills) — Agent workflow for planning and building videos. Fork: [skills](https://github.com/benyamin-persia/skills).
 - [Blender](https://github.com/blender/blender) — 3D modeling, rigging, and rendering. Fork: [blender](https://github.com/benyamin-persia/blender).
 - [faster-whisper](https://github.com/SYSTRAN/faster-whisper) — Transcribe voiceovers into captions. Fork: [faster-whisper](https://github.com/benyamin-persia/faster-whisper).
