@@ -54,6 +54,7 @@ A curated collection of videos, repositories, guides, and books for learning lar
 - [CrewAI](https://github.com/crewAIInc/crewAI) — Orchestrate teams of collaborative agents.
 - [Pydantic AI](https://github.com/pydantic/pydantic-ai) — Build typed, structured AI applications and agents in Python.
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) — Build agent workflows with tools, handoffs, and guardrails.
+- [Orca](orca/README.md) — Open-source desktop interface for coordinating coding agents such as Claude Code and Codex in parallel, with mobile monitoring and local/remote runtime support; includes your individual upstream fork.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) — Integrate AI capabilities into existing applications and services.
 - [Letta](https://github.com/letta-ai/letta) — Build stateful agents with persistent memory.
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) — Agent framework with tool calling, code execution, MCP, and RAG.
