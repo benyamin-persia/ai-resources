@@ -29,6 +29,8 @@ See the [workflow and handoff](WORKFLOW_AND_HANDOFF.md) for the project's purpos
 
 ## Repositories
 
+- [X AI feed resource catalog — November 27, 2026](ai-feed-2026-11-27/README.md) — Incremental source-attributed resource and fork checks.
+
 - [Kandinsky image and video super-resolution](kandinsky-super-resolution/README.md) — Image & Video; source-attributed repository list and individual fork checks.
 
 - [Five deep research repositories](5-deep-research-repositories-shoumya/README.md) — AI Research & Agents; source-attributed repository list and individual fork checks.
