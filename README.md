@@ -74,6 +74,7 @@ Also see [AI Agent Ecosystem: 19 GitHub Repositories](19-ai-agent-ecosystem/READ
 - [10 AI Workflow Repositories](10-ai-workflow-repositories-suraj/README.md) — All ten repos from Suraj Sharma's post, with individual upstream/fork pairs and duplicate-fork checks.
 - [50 Useful GitHub Repositories](50-useful-github-repositories-taqimolavi/README.md) — Taqi Molavi's five-category list, preserving all 50 entries (including repeats), with each distinct repo paired to your verified individual fork.
 - [7 Open-Source Work Automation Projects](7-open-source-work-automation/README.md) — Taqi Molavi's workflow, video, document, meeting, voice, browser, and desktop automation picks, each paired with your individual fork.
+- [5 AI Repositories Gaining Traction](5-ai-repositories-shoumya/README.md) — MiniMind, Last30Days Skill, Univer, Claude-BugHunter, and FFmpeg Skill; all five are paired with their upstream and your verified individual fork.
 
 ## Model Behavior & Customization
 
