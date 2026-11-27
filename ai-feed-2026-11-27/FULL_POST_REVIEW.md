@@ -2,7 +2,7 @@
 
 Each source below was opened individually rather than relying on its timeline preview. No linked code was executed.
 
-Full posts processed: 20 / 886.
+Full posts processed: 30 / 886.
 
 | Source | Repositories | Other resources | Status |
 |---|---:|---:|---|
@@ -16,3 +16,8 @@ Full posts processed: 20 / 886.
 | [Post 2125998005933224003](posts/2125998005933224003.md) | 20 | 0 | partial; indirect links require review |
 | [Post 2125905632134123574](posts/2125905632134123574.md) | 0 | 1 | visible full post links checked |
 | [Post 2126127328921034777](posts/2126127328921034777.md) | 1 | 0 | partial; indirect links require review |
+| [Post 2126104879076888957](posts/2126104879076888957.md) | 10 | 4 | partial; indirect links require review |
+| [Post 2126009433054724351](posts/2126009433054724351.md) | 0 | 1 | visible full post links checked |
+| [Post 2125945322773868857](posts/2125945322773868857.md) | 12 | 0 | visible full post links checked |
+| [Post 2125961949976404133](posts/2125961949976404133.md) | 1 | 0 | visible full post links checked |
+| [Post 2126191042798252273](../5-local-ai-repositories-shoumya/README.md) | 5 | 0 | visible full post links checked |
