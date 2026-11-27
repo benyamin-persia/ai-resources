@@ -29,6 +29,12 @@ See the [workflow and handoff](WORKFLOW_AND_HANDOFF.md) for the project's purpos
 
 ## Repositories
 
+- [Kandinsky image and video super-resolution](kandinsky-super-resolution/README.md) — Image & Video; source-attributed repository list and individual fork checks.
+
+- [Five deep research repositories](5-deep-research-repositories-shoumya/README.md) — AI Research & Agents; source-attributed repository list and individual fork checks.
+
+- [Five local AI repositories](5-local-ai-repositories-shoumya/README.md) — Local AI & Inference; source-attributed repository list and individual fork checks.
+
 ### Marketing & SEO
 
 - [Five marketing repositories](5-marketing-repositories-shoumya/README.md) — OpenSEO, Newsjack, Elmo, ChatbotX, and Awesome Design Stack; individual verified forks and source attribution.
