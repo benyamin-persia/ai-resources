@@ -20,3 +20,8 @@ Ordered by the feed capture sequence, not chronological publication order. This 
 | [Post 2126299445373633001](posts/2126299445373633001.md) | 0 | 1 | direct resource links checked |
 | [Post 2126218167575867870](posts/2126218167575867870.md) | 0 | 1 | direct resource links checked |
 | [Post 2126061536783536516](posts/2126061536783536516.md) | 4 | 0 | direct resource links checked |
+| [Post 2126289693629108281](posts/2126289693629108281.md) | 1 | 0 | direct resource links checked |
+| [Post 2125981879316672580](posts/2125981879316672580.md) | 0 | 1 | direct resource links checked |
+| [Post 2126238420767047794](posts/2126238420767047794.md) | 0 | 1 | direct resource links checked |
+| [Post 2126241685147730229](posts/2126241685147730229.md) | 0 | 1 | direct resource links checked |
+| [Post 2126021565490040918](posts/2126021565490040918.md) | 1 | 0 | direct resource links checked |
