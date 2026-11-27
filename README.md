@@ -188,6 +188,7 @@ All 14 repositories from 0xnicc0's post, with upstreams and the individual forks
 - [Designer Skills Pack](https://github.com/Owl-Listener/designer-skills) — Agent skills, commands, and plugins covering design research, systems, UI, interaction, and delivery.
 - [Motion Design Skill](https://github.com/LottieFiles/motion-design-skill) — Motion principles for agents, including timing, easing, and choreography; already listed under [AI Motion Graphics & Video Production](#ai-motion-graphics--video-production).
 - [Blender Agent Skills](https://github.com/EL4CTEO/blender-skills) — Blender workflows for modeling, materials, rigging, animation, rendering, and export.
+- [Blender Skills — 94-skill pack](blender-skills/README.md) — arjun988's Blender MCP-connected skill pack for Cursor, Claude Code, Kiro, and Codex, paired with your already-existing individual fork.
 - [Open 3D Skills](https://github.com/Moh4696/open-3d-skills) — Eight agent skills for Three.js scenes, scroll films, transparent video, cursor rigs, exploded views, motion assets, browser checks, and frame capture. Install with `npx skills add Moh4696/open-3d-skills` (MIT).
 - [UI/UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — Design intelligence for building polished UI/UX across multiple platforms.
 
