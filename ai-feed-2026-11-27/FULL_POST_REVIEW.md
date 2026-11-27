@@ -2,7 +2,7 @@
 
 Each source below was opened individually rather than relying on its timeline preview. No linked code was executed.
 
-Full posts processed: 70 / 886.
+Full posts processed: 80 / 886.
 
 | Source | Repositories | Other resources | Status |
 |---|---:|---:|---|
@@ -37,3 +37,6 @@ Full posts processed: 70 / 886.
 | [Post 2126081564480082084](posts/2126081564480082084.md) | 1 | 0 | visible full post links checked |
 | [Post 2125951357580460265](posts/2125951357580460265.md) | 5 | 0 | visible full post links checked |
 | [Post 2125873442943570273](posts/2125873442943570273.md) | 1 | 0 | visible full post links checked |
+| [Post 2126216958853226574](posts/2126216958853226574.md) | 1 | 0 | visible full post links checked |
+| [Post 2125976371600257533](posts/2125976371600257533.md) | 7 | 0 | visible full post links checked |
+| [Post 2125931672684425596](posts/2125931672684425596.md) | 1 | 0 | visible full post links checked |
