@@ -14,3 +14,4 @@ Ordered by the feed capture sequence, not chronological publication order. This 
 | [Post 2125960693581066368](posts/2125960693581066368.md) | 0 | 1 | direct resource links checked |
 | [Post 2125950767899226587](posts/2125950767899226587.md) | 1 | 0 | direct resource links checked |
 | [Post 2125888077486817421](posts/2125888077486817421.md) | 0 | 1 | direct resource links checked |
+| [Post 2126207019694899293](posts/2126207019694899293.md) | 1 | 0 | direct resource links checked |
