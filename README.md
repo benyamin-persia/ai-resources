@@ -217,6 +217,8 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 
 ## AI Model Platforms
 
+- [Lebrel DeepSeek V4.1 Flash 1017](lebrel-deepseek-v4-1-flash/README.md) — hosted chat/API and model hub; free-beta hours, pricing discrepancy, and download requirements.
+
 - [Strata Local Inference Engine](strata-local-inference/README.md) — Run Qwen3.8-Flash-Next locally and connect coding tools through local APIs; includes your individual fork and a note on total RAM/disk requirements beyond GPU VRAM.
 - [Gemma 4 E4B Heretic GGUF for Ollama](gemma4-e4b-heretic-ollama/README.md) — DeRonin_'s CPU/older-GPU walkthrough, the Hugging Face model card, command discrepancies, and your existing Ollama fork.
 - [Gemma 4 12B Heretic Abliterated GGUF](gemma4-12b-heretic-gguf/README.md) — Mingzi206's Hugging Face model link, quantization/hardware caveats, and your existing Ollama fork.
