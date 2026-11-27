@@ -2,6 +2,8 @@
 
 All 10 repositories from [Suraj Sharma's X post](https://x.com/suraj_sharma14/status/2122585528906518837), kept in the post's order. The descriptions below summarize the post's claims.
 
+The [Diagram Design](https://github.com/cathrynlavery/diagram-design) item was later reshared in [AKhomssi's post](https://x.com/AKhomssi/status/2126067216286167234), which highlights its HTML/SVG diagram outputs and MIT license. Its individual fork already exists at [benyamin-persia/diagram-design](https://github.com/benyamin-persia/diagram-design) and was verified against the upstream.
+
 Six of these repos were already individually forked in your account. I created individual forks for the other four: Hallmark, Graphify, Taste, and Diagram Design. Your older `taste-skill` fork is from a different upstream, so the Taste repo in this post has its own separately named fork.
 
 Machine-readable list: [repositories.json](repositories.json) · [Upstream URLs](upstreams.txt) · [Fork URLs](forks.txt)
