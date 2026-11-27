@@ -29,6 +29,11 @@ See the [workflow and handoff](WORKFLOW_AND_HANDOFF.md) for the project's purpos
 
 ## Repositories
 
+### Marketing & SEO
+
+- [Five marketing repositories](5-marketing-repositories-shoumya/README.md) — OpenSEO, Newsjack, Elmo, ChatbotX, and Awesome Design Stack; individual verified forks and source attribution.
+
+
 - [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)
 - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
