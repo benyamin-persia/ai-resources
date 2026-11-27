@@ -251,4 +251,5 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 - [10 AI & Web Design Resources](10-ai-web-design-resources/README.md) — Product-building and design resources from Krisha's October 30, 2026 post, organized by purpose with TXT/JSON copies.
 - [18 AI Design Links](18-ai-design-links-bardhyl/README.md) — Bardhyl Bytyqi's design toolkit post, preserved one-by-one in source order with categories and TXT/JSON copies; overlaps with the earlier 10-resource list are noted.
 - [8 AI Design Websites](8-ai-design-websites/README.md) — Design tools and inspiration links from Viktor Oddy's November 3, 2026 post, listed individually with TXT/JSON copies.
+- [MotionSites MCP](motionsites-mcp/README.md) — Hosted MCP connector for website design prompts in Claude, Claude Code, Cursor, and Codex; the full library is paid, with a limited free tier.
 - [SceneAI Prompt Library](sceneai-prompt-library/README.md) — Copy-ready AI prompts for landing pages, animated backgrounds, and gradients, shared in Nakamoto's post.
