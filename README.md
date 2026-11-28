@@ -255,6 +255,7 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 
 ## Desktop Utilities
 
+- [OpenFill](openfill/README.md) — Local ComfyUI-powered generative fill, object removal, and canvas expansion for PhotoCraft and GIMP 3; includes your newly created individual fork, hardware/model caveats, and the local-versus-cloud distinction.
 - [QuickOCR](quickocr/README.md) — Offline-first Windows/Linux screen OCR utility with multiple OCR backends and your individual upstream fork.
 
 ## Guides
