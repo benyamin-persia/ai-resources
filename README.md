@@ -218,6 +218,7 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 
 ## AI Model Platforms
 
+- [llm.asm — Qwen3 Inference and Bare-Metal AI OS](llm-asm/README.md) — MIT-licensed x86-64 NASM projects for local Qwen inference, a bootable bare-metal OS, and Mini-GPT training; includes your newly created individual fork and a check of the post's benchmark claims.
 - [Lebrel DeepSeek V4.1 Flash 1017](lebrel-deepseek-v4-1-flash/README.md) — hosted chat/API and model hub; free-beta hours, pricing discrepancy, and download requirements.
 
 - [Strata Local Inference Engine](strata-local-inference/README.md) — Run Qwen3.8-Flash-Next locally and connect coding tools through local APIs; includes your individual fork and a note on total RAM/disk requirements beyond GPU VRAM.
