@@ -218,6 +218,7 @@ See the full [7 GitHub Repositories for Designers collection](7-github-repos-for
 
 ## AI Model Platforms
 
+- [LLM.OS — Qwen in a Browser Tab](browser-llm-os/README.md) — Tesseracted Labs' local WebAssembly demo, its Qwen/Unsloth model notes, and the individual fork results for its `llm.asm` and `unkernel` inspirations.
 - [llm.asm — Qwen3 Inference and Bare-Metal AI OS](llm-asm/README.md) — MIT-licensed x86-64 NASM projects for local Qwen inference, a bootable bare-metal OS, and Mini-GPT training; includes your newly created individual fork and a check of the post's benchmark claims.
 - [Lebrel DeepSeek V4.1 Flash 1017](lebrel-deepseek-v4-1-flash/README.md) — hosted chat/API and model hub; free-beta hours, pricing discrepancy, and download requirements.
 
