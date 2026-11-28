@@ -77,6 +77,7 @@ See the [workflow and handoff](WORKFLOW_AND_HANDOFF.md) for the project's purpos
 - [n8n](https://github.com/n8n-io/n8n) — Automate workflows across apps with native AI capabilities.
 - [LiteLLM](https://github.com/BerriAI/litellm) — Route requests to 100+ model providers through a unified API.
 - [Oxylabs Web API MCP](https://github.com/oxylabs/web-api-mcp) — Self-hostable MCP server for the Oxylabs Web API.
+- [Scrapling](scrapling/README.md) — Python scraping, browser fetching, adaptive selectors, concurrent crawling, exports, and MCP/agent integrations; your existing fork is verified, and this new post is cross-referenced with its earlier collection entry.
 - [Qwen Code](qwen-code/README.md) — Qwen's terminal coding agent, with the individual upstream fork and notes on provider choice, preview status, and evaluation claims.
 - [Nightshift](nightshift/README.md) — Accountable long-running shifts for Cursor, Codex, and Claude Code, with the individual upstream fork and review notes.
 - [Parallax Agent Workflow Plugin](parallax-agent-workflow/README.md) — Hands-off coding workflow for DeepSeek Harness, Claude Code, and other agents; includes your individual fork and the post's compatibility caveats.
