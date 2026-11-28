@@ -101,6 +101,7 @@ Also see [AI Agent Ecosystem: 19 GitHub Repositories](19-ai-agent-ecosystem/READ
 - [Jailbreak Prompt Collection](model-jailbreak-prompts/README.md) — A GitHub collection of model-specific jailbreak prompts linked by Pengsonal and Anya; your fork already exists.
 - [Model Refusal and Prompting Guide — Carnage](model-jailbreak-guide-carnage/README.md) — X article about prompts and settings for multiple models; linked claims are attributed and the bypass prompts are not duplicated here. No GitHub repo was linked.
 - [13 Model-Specific and General-Purpose Prompt Tools — Carnage](13-model-jailbreak-prompts-carnage/README.md) — Names and high-level descriptions of the prompts advertised in a later post, plus its first-reply link; the prompt payloads are not copied. No GitHub repository was linked, so no forks were created.
+- [AI Jailbreak Prompt Cheat Sheet — Anastasis King](ai-jailbreak-cheat-sheet-anastasis/README.md) — X infographic spanning ten jailbreak/security categories and five AI assistants. Cataloged as a source reference only; its copy-ready prompts are not reproduced. No GitHub repository was linked, so there was nothing to fork.
 - [Gemini 4 Neon Coding-Agent System Prompt — de1lymoon](gemini-neon-system-prompt-de1lymoon/README.md) — Source post advertises seven task modes and project playbooks; performance claims are unverified, and no GitHub repo was linked.
 
 ## Reverse Engineering & App Research
