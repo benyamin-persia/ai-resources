@@ -57,6 +57,7 @@ See the [workflow and handoff](WORKFLOW_AND_HANDOFF.md) for the project's purpos
 - [smolagents](https://github.com/huggingface/smolagents)
 - [vLLM](https://github.com/vllm-project/vllm)
 - [GraphRAG](https://github.com/microsoft/graphrag)
+- [NVIDIA Auto Ontology](auto-ontology/README.md) — Build a governed semantic layer over enterprise data and expose concepts, joins, metrics, and lineage to analytics agents through MCP, CLI, and API; your existing individual fork is verified.
 - [DeepEval](https://github.com/confident-ai/deepeval)
 - [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [PEFT](https://github.com/huggingface/peft)
